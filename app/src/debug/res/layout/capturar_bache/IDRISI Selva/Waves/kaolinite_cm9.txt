@@ -1,0 +1,96 @@
+ TITLE: Kaolinite CM9 DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: CM9 
+ 
+ MINERAL_TYPE: Phyllosilicate 
+ 
+ MINERAL: Kaolinite (Kaolinite-Serpentine group) 
+ 
+ FORMULA: Al2Si2O5(OH)4 
+ 
+ FORMULA_NROFF: Al\d2\uSi\d2\uO\d5\u(OH)\d4\u 
+ 
+ COLLECTION_LOCALITY: Mesa Alta, New Mexico 
+ 
+ ORIGINAL_DONOR: Clay Mineral Standard from Wards Natural Science Inc. 
+ 
+ CURRENT_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ ULTIMATE_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ Polymorphous with Dickite, Halloysite, and Nacrite. 
+ 
+ A spectrum for this sample was published by: 
+ 
+ .fi 
+ Clark, R.N., King, T.V.V., Klejwa, M., Swayze, G.A., and Vergo, N., 
+ 1990, High spectral resolution reflectance spectroscopy of minerals: 
+ Journal of Geophysical Research, v. 95, no. 8B, p 12,653-12,680. 
+ 
+ who noted that it was spectrally pure. 
+ .nf 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ 
+ XRD_ANALYSIS: 
+ 
+ .fi 
+ Analysis by Norma Vergo indicates the sample is well ordered kaolinite. 
+ The <2  umm cut is kaolinite + small amount of quartz. 
+ .nf 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE: XRF       # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ .KS 
+ .nf 
+ COMPOSITION:      SiO2:   47.1  wt%    NROFF: SiO\d2\u 
+ COMPOSITION:      TiO2:    0.46 wt%    NROFF: TiO\d2\u 
+ COMPOSITION:     Al2O3:   37.4  wt%    NROFF: Al\d2\uO\d3\u 
+ COMPOSITION:     Fe2O3:    0.47 wt%    NROFF: Fe\d2\uO\d3\u 
+ COMPOSITION:       FeO:   <0.01 wt%    NROFF: FeO 
+ COMPOSITION:       MnO:   <0.02 wt%    NROFF:: MnO 
+ COMPOSITION:       MgO:    0.16 wt%    NROFF: MgO 
+ COMPOSITION:       CaO:    0.05 wt%    NROFF: CaO 
+ COMPOSITION:      Na2O:   <0.15 wt%    NROFF: Na\d2\uO 
+ COMPOSITION:       K2O:    0.08 wt%    NROFF: K\d2\uO 
+ COMPOSITION:      P2O5:   <0.05 wt%    NROFF: P\d2\uO\d5\u 
+ COMPOSITION:      H2O+:   13.8  wt%    NROFF:    H\d2\uO\u+\d 
+ COMPOSITION:      H2O-:    0.12 wt%    NROFF:    H\d2\uO\u-\d 
+ COMPOSITION:       H2O:   13.9  wt%    NROFF: H\d2\uO 
+ COMPOSITION:       LOI:   14.1  wt%    NROFF: LOI 
+ COMPOSITION: ---------------------- 
+ COMPOSITION:     Total:  100.04 wt% 
+ COMPOSITION:  O=Cl,F,S:         wt%  #correction for Cl, F, S 
+ COMPOSITION: New Total:         wt% 
+ .KE 
+ 
+ COMPOSITION_TRACE: 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ .fi 
+ XRF Analysis by Branch of Analytical Chemistry, USGS, Denver. 
+ Total above includes LOI value rather than H\d2\uO values, and does not 
+ include value for FeO as it was determined at same time as H\d2\uO. 
+ Trace analysis was performed and will be added later. 
+ .nf 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: wcalvin@speclab (Wendy M. Calvin) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r 2529   0.2-3.0  umm      200     g.s.= 
+ 

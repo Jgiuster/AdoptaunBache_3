@@ -1,0 +1,66 @@
+ TITLE: Kaolinite KL502 DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: KL502 
+ 
+ MINERAL_TYPE: Phyllosilicate 
+ 
+ MINERAL: Kaolinite  (Kaolinite-Serpentine group) 
+ 
+ FORMULA: Al2Si2O5(OH)4 
+ 
+ FORMULA_NROFF: Al\d2\uSi\d2\uO\d5\u(OH)\d4\u 
+ 
+ COLLECTION_LOCALITY: Cripple Creek, CO 
+ 
+ ORIGINAL_DONOR: Dan Taranik 
+ 
+ CURRENT_SAMPLE_LOCATION: CSES/CIRES, Univ. of CO, Boulder 
+ 
+ ULTIMATE_SAMPLE_LOCATION: CSES/CIRES, Univ. of CO, Boulder 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ 
+ XRD_ANALYSIS: 
+ 
+ Single phase, veinlet. 
+ 
+ .fi 
+ Kruse, F.A., and P.L. Hauff, eds., 1992, The IGCP-264 Spectral 
+ Properties Database.  IUGS/UNESCO, Special Publication, 211 p., (in 
+ press). 
+ .nf 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE: None      # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ COMPOSITION_TRACE: 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+             mode: 
+           90 vol%  kaolinite 
+            5 vol%  opaques 
+            5 vol%  feldspar or quartz 
+ 
+  avg gr sz = 15   umm 
+ 
+ Grains have mottled extinction probably from fibrous habit.  G. Swayze. 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: agall@speclab (Andrea J. Gallagher) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r 2563   0.2-3.0  umm      200     g.s.= 15   umm 
+ 

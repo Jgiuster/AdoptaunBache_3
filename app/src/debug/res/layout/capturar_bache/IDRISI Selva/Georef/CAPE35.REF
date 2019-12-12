@@ -1,0 +1,14 @@
+ref. system : South Africa Universal Transverse Mercator Zone 35
+projection  : Transverse Mercator
+datum       : Cape
+delta WGS84 : -136 -108 -292
+ellipsoid   : Clarke 1880
+major s-ax  : 6378249.15
+minor s-ax  : 6356514.87
+origin long : 27
+origin lat  : 0
+origin X    : 500000
+origin Y    : 10000000
+scale fac   : 0.9996
+units       : m
+parameters  : 0

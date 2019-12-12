@@ -1,0 +1,101 @@
+ TITLE: Muscovite GDS108 DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: GDS108 
+ 
+ MINERAL_TYPE: Phyllosilicate 
+ 
+ MINERAL: Muscovite (Mica group) 
+ 
+ FORMULA: KAl2Si3O10(OH)2 
+ 
+ FORMULA_NROFF: KAl\d2\uSi\d3\uO\d10\u(OH)\d2\u 
+ 
+ COLLECTION_LOCALITY: Methulu, Ontario 
+ 
+ ORIGINAL_DONOR: Jim Crowley, USGS Reston 
+ 
+ CURRENT_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ ULTIMATE_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ 
+ XRD_ANALYSIS: 
+ 
+ .fi 
+ "The unit-cell parameters for this muscovite, determined by Robert 
+ Fournier, U.S. Geological Survey, are a=5.203\(+-0.005 angstroms, 
+ b=9.003\(+-0.01 angstroms, c=20.031\(+-0.001 angstroms, 
+   ub=94.47\(de\(+-0.17\(de, using fluorite, a=5.4626 angstrom, as an 
+ internal standard." 
+ 
+ Robie, R.A., Hemingway, B.S., and Wilson, W.H., 1976, The heat 
+ capacites of calorimetry conference copper and of muscovite 
+ KAl\d2\u(AlSi\d3\u)O\d10\u(OH)\d2\u, pyrophyllite 
+ Al\d2\uSi\d4\uO\d10\u(OH)\d2\u, and illite 
+ K\d3\u(Al\d7\uMg)(Si\d14\uAl\d2\u)O\d40\u(OH)\d8\u between 15 and 
+ 375 K and their standard entropies at 298.15K.  U.S. Geological 
+ Survey Journal of Research, v. 4, no. 6, p.631-644. 
+ .nf 
+ 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE:               # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ .KS 
+ .nf 
+ COMPOSITION:      SiO2:   44.0  wt%    NROFF: SiO\d2\u 
+ COMPOSITION:      TiO2:     .13 wt%    NROFF: TiO\d2\u 
+ COMPOSITION:     Al2O3:   35.0  wt%    NROFF: Al\dd2\uO\d3\u 
+ COMPOSITION:     Fe2O3:    2.2  wt%    NROFF: Fe\d2\uO\d3\u 
+ COMPOSITION:       FeO:     .26 wt%    NROFF: FeO 
+ COMPOSITION:       MnO:     .07 wt%    NROFF: MnO 
+ COMPOSITION:       MgO:     .57 wt%    NROFF: MgO 
+ COMPOSITION:       CaO:     .22 wt%    NROFF: CaO 
+ COMPOSITION:      Na2O:     .72 wt%    NROFF: Na\d2\uO 
+ COMPOSITION:       K2O:    9.6  wt%    NROFF: K\d2\uO 
+ COMPOSITION:      P2O5:     .01 wt%    NROFF: P\d2\uO\d5\u 
+ COMPOSITION:         F:     .29 wt%    NROFF: F 
+ COMPOSITION:       CO2:     .01 wt%    NROFF: CO\d2\u 
+ COMPOSITION:      H2O+:    5.6  wt%    NROFF:    H\d2\uO\u+\d 
+ COMPOSITION:      H2O-:    2.0  wt%    NROFF:    H\d2\uO\u-\d 
+ COMPOSITION: ---------------------- 
+ COMPOSITION:     Total:  100.68 wt% 
+ .KE 
+ 
+ Rapid rock analysis from: 
+ 
+ .fi 
+ Robie, R.A., Hemingway, B.S., and Wilson, W.H., 1976, The heat 
+ capacites of calorimetry conference copper and of muscovite 
+ KAl\d2\u(AlSi\d3\u)O\d10\u(OH)\d2\u, pyrophyllite 
+ Al\d2\uSi\d4\uO\d10\u(OH)\d2\u, and illite 
+ K\d3\u(Al\d7\uMg)(Si\d14\uAl\d2\u)O\d40\u(OH)\d8\u between 15 and 
+ 375 K and their standard entropies at 298.15K.  U.S. Geological 
+ Survey Journal of Research, v. 4, no. 6, p.631-644. 
+ .nf 
+ 
+ 
+ COMPOSITION_TRACE: 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: agall@speclab (Andrea J. Gallagher) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r 3265   0.2-3.0  umm      200     g.s.= 
+ 

@@ -1,0 +1,60 @@
+ TITLE: Alunite SUSTDA-20 DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: SUSTDA-20 
+ 
+ MINERAL_TYPE: Sulfate 
+ 
+ MINERAL: Alunite (Alunite group) 
+ 
+ FORMULA: KAl3(SO4)2(OH)6 
+ 
+ FORMULA_NROFF: KAl\d3\u(SO\d4\u)\d2\u(OH)\d6\u 
+ 
+ COLLECTION_LOCALITY: Sulfur, NV 
+ 
+ ORIGINAL_DONOR: Ron Lyon at Stanford University 
+ 
+ CURRENT_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ ULTIMATE_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ The sample was sieved to the grain size interval ~<250   umm. 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ XRD_ANALYSIS: 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE:  None      # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ COMPOSITION_TRACE: None 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ None. 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+ .fi 
+ Pure sample.  Clear elongated grains with parallel extinction along 
+ cleavage traces.  Also length fast, and of low birefringence.  This 
+ is all consistent with alunite. 
+ 
+ Avg. grain size = 19  umm 
+ .nf 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: wcalvin@speclab  (Wendy M. Calvin) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r  261   0.2-3.0  umm      200     g.s.= 19   umm 
+ 

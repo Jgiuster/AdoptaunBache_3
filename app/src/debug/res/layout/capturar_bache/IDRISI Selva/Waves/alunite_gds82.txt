@@ -1,0 +1,85 @@
+ TITLE: Alunite GDS82 (Natroalunite) DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: GDS82 
+ 
+ MINERAL_TYPE: Sulfate 
+ 
+ MINERAL: Alunite (Na82) (Natroalunite) (Alunite group) 
+ 
+ FORMULA: (Na,K)Al3(SO4)2(OH)6    Na82 
+ 
+ FORMULA_NROFF: (Na,K)Al\d3\u(SO\d4\u)\d2\u(OH)\d6\u    (Na\d82\u) 
+ 
+ COLLECTION_LOCALITY: Sadler, TX 
+ 
+ ORIGINAL_DONOR: Roger Stoffregen, SMU 
+ 
+ CURRENT_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ ULTIMATE_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ This is a low temperature, diagentic variety of alunite. 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ XRD_ANALYSIS: 
+ 
+ "40 kV - 30 mA, 6.5-9.5 keV (n80alnt.out) 
+ References: JCPDS #41-1467; Huebner's reference patterns 
+ Found: alunite, quartz, very very weak reflections at 2.38 
+        and 1.720  . 
+ Comment: the alunite is probably a single phase; its lattice 
+          spacings match those of natroalunite.  The alunite has 
+          sharp peaks, indicating good crystallinite and 
+          compositional homogeneity" 
+ 
+ J.S. Huebner, J. Pickrell, and J. Randow, 1993,  written communication. 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE: None          # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ COMPOSITION_TRACE: None 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ Sample is a standard used by: 
+ 
+ .fi 
+ Stoffregen, R., and Alpers, C., 1992, Observations on the unit-cell dimensions,
+  H2O 
+ contents and del D values of natural and synthetic alunite: American Mineralogi
+ st, v.77, 
+ p. 1092-1098. 
+ .nf 
+ 
+ ENDD_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+                Bimodal grain size distribution: 
+                      mode 1: 70   umm @ 55 vol% 
+                      mode 2: 3   umm @ 45 vol% 
+ 
+            avg gr sz = 50   umm 
+ 
+ .fi 
+ Larger grains have extinction characteritic of very fine grained aggregates.  I
+  cannot 
+ determine the optical properties because of small grain size.  Trace opaques.  
+ Purity 
+ confirmed by XRD by Roger Stoffregen.  G. Swayze. 
+ .nf 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: agall@speclab (Andrea J. Gallagher) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r  226   0.2-3.0  umm      200     g.s.= 50   umm 
+ 

@@ -1,0 +1,1904 @@
+1       TransverseMercator                      = Idrisi Transverse Mercator
+2       TransvMercator_Modified_Alaska
+3       ObliqueMerator
+4       ObliqueMerator_Laborde
+5       ObliqueMerator_Rosenmund
+6       ObliqueMerator_Spherical
+7       Mercator                                = Idrisi Mercator
+8       LambertConfConic_2SP                    = Idrisi Lambert Conformal Conic
+9       LambertConfConic_Helmert
+10      LambertAzimEqualArea                    = Idrisi varies by aspect
+11      AlbertsEqualArea                        = Idrisi Alber's Equal Area
+12      AzimuthalEquidistant
+13      EquidistantConic
+14      Stereographic                           = Idrisi varies by aspect
+15      PolarStereographic                      = Idrisi varies by pole
+16      ObliqueStereographic                    = Idrisi Oblique Stereographic
+17      Equirectangular                         = Idrisi Plate Carree
+18      CassiniSoldner
+19      Gnomonic
+20      MillerCylindrical
+21      Orthographic
+22      Polyconic
+23      Robinson
+24      Sinusoidal
+25      VanDerGrinten
+26      NewZealandMapGrid
+27      TransvMercator_SouthOriented
+4001 	Airy1830
+4002 	AiryModified1849	
+4003 	AustralianNationalSpheroid	
+4004 	Bessel1841	
+4005 	BesselModified	
+4006 	BesselNamibia	
+4007 	Clarke1858	
+4008 	Clarke1866	
+4009 	Clarke1866Michigan	
+4010 	Clarke1880_Benoit	
+4011 	Clarke1880_IGN	
+4012 	Clarke1880_RGS	
+4013 	Clarke1880_Arc	
+4014 	Clarke1880_SGA1922	
+4015 	Everest1830_1937Adjustment	
+4016 	Everest1830_1967Definition	
+4017 	Everest1830_1975Definition	
+4018 	Everest1830Modified	
+4019 	GRS1980	
+4020 	Helmert1906	
+4021 	IndonesianNationalSpheroid	
+4022 	International1924	
+4023 	International1967	
+4024 	Krassowsky1940	
+4025 	NWL9D	
+4026 	NWL10D	
+4027 	Plessis1817	
+4028 	Struve1860	
+4029 	WarOffice	
+4030 	WGS84	
+4031 	GEM10C	
+4032 	OSU86F	
+4033 	OSU91A	
+4034 	Clarke1880	
+4035 	Sphere	
+4201 	Adindan	
+4202 	AGD66	
+4203 	AGD84	
+4204 	Ain_el_Abd	
+4205 	Afgooye	
+4206 	Agadez	
+4207 	Lisbon	
+4208 	Aratu	
+4209 	Arc_1950	
+4210 	Arc_1960	
+4211 	Batavia	
+4212 	Barbados	
+4213 	Beduaram	
+4214 	Beijing_1954	
+4215 	Belge_1950	
+4216 	Bermuda_1957	
+4217 	Bern_1898	
+4218 	Bogota	
+4219 	Bukit_Rimpah	
+4220 	Camacupa	
+4221 	Campo_Inchauspe	
+4222 	Cape	
+4223 	Carthage	
+4224 	Chua	
+4225 	Corrego_Alegre	
+4226 	Cote_d_Ivoire	
+4227 	Deir_ez_Zor	
+4228 	Douala	
+4229 	Egypt_1907	
+4230 	ED50	
+4231 	ED87	
+4232 	Fahud	
+4233 	Gandajika_1970	
+4234 	Garoua	
+4235 	Guyane_Francaise	
+4236 	Hu_Tzu_Shan	
+4237 	HD72	
+4238 	ID74	
+4239 	Indian_1954	
+4240 	Indian_1975	
+4241 	Jamaica_1875	
+4242 	JAD69	
+4243 	Kalianpur	
+4244 	Kandawala	
+4245 	Kertau	
+4246 	KOC	
+4247 	La_Canoa	
+4248 	PSAD56	
+4249 	Lake	
+4250 	Leigon	
+4251 	Liberia_1964	
+4252 	Lome	
+4253 	Luzon_1911	
+4254 	Hito_XVIII_1963	
+4255 	Herat_North	
+4256 	Mahe_1971	
+4257 	Makassar	
+4258 	EUREF89	
+4259 	Malongo_1987	
+4260 	Manoca	
+4261 	Merchich	
+4262 	Massawa	
+4263 	Minna	
+4264 	Mhast	
+4265 	Monte_Mario	
+4266 	M_poraloko	
+4267 	NAD27
+4268 	NAD_Michigan	
+4269 	NAD83	
+4270 	Nahrwan_1967	
+4271 	Naparima_1972	
+4272 	GD49	
+4273 	NGO_1948	
+4274 	Datum_73	
+4275 	NTF	
+4276 	NSWC_9Z_2	
+4277 	OSGB_1936	
+4278 	OSGB70	
+4279 	OS_SN80	
+4280 	Padang	
+4281 	Palestine_1923	
+4282 	Pointe_Noire	
+4283 	GDA94	
+4284 	Pulkovo_1942	
+4285 	Qatar	
+4286 	Qatar_1948	
+4287 	Qornoq	
+4288 	Loma_Quintana	
+4289 	Amersfoort	
+4290 	RT38	
+4291 	SAD69	
+4292 	Sapper_Hill_1943	
+4293 	Schwarzeck	
+4294 	Segora	
+4295 	Serindung	
+4296 	Sudan	
+4297 	Tananarive	
+4298 	Timbalai_1948	
+4299 	TM65	
+4300 	TM75	
+4301 	Tokyo	
+4302 	Trinidad_1903	
+4303 	TC_1948	
+4304 	Voirol_1875	
+4305 	Voirol_Unifie	
+4306 	Bern_1938	
+4307 	Nord_Sahara_1959	
+4308 	Stockholm_1938	
+4309 	Yacare	
+4310 	Yoff	
+4311 	Zanderij	
+4312 	MGI	
+4313 	Belge_1972	
+4314 	DHDN	
+4315 	Conakry_1905	
+4322 	WGS_72	
+4324 	WGS_72BE	
+4326 	WGS_84	
+4801 	Bern_1898_Bern	
+4802 	Bogota_Bogota	
+4803 	Lisbon_Lisbon	
+4804 	Makassar_Jakarta	
+4805 	MGI_Ferro	
+4806 	Monte_Mario_Rome	
+4807 	NTF_Paris	
+4808 	Padang_Jakarta	
+4809 	Belge_1950_Brussels	
+4810 	Tananarive_Paris	
+4811 	Voirol_1875_Paris	
+4812 	Voirol_Unifie_Paris	
+4813 	Batavia_Jakarta	
+4901 	ATF_Paris	
+4902 	NDG_Paris
+5001 	Airy_1830_ellipsoid	
+5002 	Airy_Modified_1849_ellipsoid	
+5003 	ANS_ellipsoid	
+5004 	Bessel_1841_ellipsoid	
+5005 	Bessel_Modified_ellipsoid	
+5006 	Bessel_Namibia_ellipsoid	
+5007 	Clarke_1858_ellipsoid	
+5008 	Clarke_1866_ellipsoid	
+5010 	Clarke_1880_Benoit_ellipsoid	
+5011 	Clarke_1880_IGN_ellipsoid	
+5012 	Clarke_1880_RGS_ellipsoid	
+5013 	Clarke_1880_Arc_ellipsoid	
+5014 	Clarke_1880_SGA_1922_ellipsoid	
+5015 	Everest_1830_1937_Adjustment_ellipsoid	
+5016 	Everest_1830_1967_Definition_ellipsoid	
+5017 	Everest_1830_1975_Definition_ellipsoid	
+5018 	Everest_1830_Modified_ellipsoid	
+5019 	GRS_1980_ellipsoid	
+5020 	Helmert_1906_ellipsoid	
+5021 	INS_ellipsoid	
+5022 	International_1924_ellipsoid	
+5023 	International_1967_ellipsoid	
+5024 	Krassowsky_1940_ellipsoid	
+5025 	NWL_9D_ellipsoid	
+5026 	NWL_10D_ellipsoid	
+5027 	Plessis_1817_ellipsoid	
+5028 	Struve_1860_ellipsoid	
+5029 	War_Office_ellipsoid	
+5030 	WGS_84_ellipsoid	
+5031 	GEM_10C_ellipsoid	
+5032 	OSU86F_ellipsoid	
+5033 	OSU91A_ellipsoid	
+5101 	Newlyn	
+5102 	North_American_Vertical_Datum_1929	
+5103 	North_American_Vertical_Datum_1988	
+5104 	Yellow_Sea_1956	
+5105 	Baltic_Sea	
+5106 	Caspian_Sea
+6001 	Airy1830	
+6002 	AiryModified1849	
+6003 	AustralianNationalSpheroid	
+6004 	Bessel1841	
+6005 	BesselModified	
+6006 	BesselNamibia	
+6007 	Clarke1858	
+6008 	Clarke1866	
+6009 	Clarke1866Michigan	
+6010 	Clarke1880_Benoit	
+6011 	Clarke1880_IGN	
+6012 	Clarke1880_RGS	
+6013 	Clarke1880_Arc	
+6014 	Clarke1880_SGA1922	
+6015 	Everest1830_1937Adjustment	
+6016 	Everest1830_1967Definition	
+6017 	Everest1830_1975Definition	
+6018 	Everest1830Modified	
+6019 	GRS1980	
+6020 	Helmert1906	
+6021 	IndonesianNationalSpheroid	
+6022 	International1924	
+6023 	International1967	
+6024 	Krassowsky1960	
+6025 	NWL9D	
+6026 	NWL10D	
+6027 	Plessis1817	
+6028 	Struve1860	
+6029 	WarOffice	
+6030 	WGS84	
+6031 	GEM10C	
+6032 	OSU86F	
+6033 	OSU91A	
+6034 	Clarke1880	
+6035 	Sphere	
+6201 	Adindan	
+6202 	Australian_Geodetic_Datum_1966	
+6203 	Australian_Geodetic_Datum_1984	
+6204 	Ain_el_Abd_1970	
+6205 	Afgooye	
+6206 	Agadez	
+6207 	Lisbon	
+6208 	Aratu	
+6209 	Arc_1950	
+6210 	Arc_1960	
+6211 	Batavia	
+6212 	Barbados	
+6213 	Beduaram	
+6214 	Beijing_1954	
+6215 	Reseau_National_Belge_1950	
+6216 	Bermuda_1957	
+6217 	Bern_1898	
+6218 	Bogota	
+6219 	Bukit_Rimpah	
+6220 	Camacupa	
+6221 	Campo_Inchauspe	
+6222 	Cape	
+6223 	Carthage	
+6224 	Chua	
+6225 	Corrego_Alegre	
+6226 	Cote_d_Ivoire	
+6227 	Deir_ez_Zor	
+6228 	Douala	
+6229 	Egypt_1907	
+6230 	European_Datum_1950	
+6231 	European_Datum_1987	
+6232 	Fahud	
+6233 	Gandajika_1970	
+6234 	Garoua	
+6235 	Guyane_Francaise	
+6236 	Hu_Tzu_Shan	
+6237 	Hungarian_Datum_1972	
+6238 	Indonesian_Datum_1974	
+6239 	Indian_1954	
+6240 	Indian_1975	
+6241 	Jamaica_1875	
+6242 	Jamaica_1969	
+6243 	Kalianpur	
+6244 	Kandawala	
+6245 	Kertau	
+6246 	Kuwait_Oil_Company	
+6247 	La_Canoa	
+6248 	Provisional_S_American_Datum_1956	
+6249 	Lake	
+6250 	Leigon	
+6251 	Liberia_1964	
+6252 	Lome	
+6253 	Luzon_1911	
+6254 	Hito_XVIII_1963	
+6255 	Herat_North	
+6256 	Mahe_1971	
+6257 	Makassar	
+6258 	European_Reference_System_1989	
+6259 	Malongo_1987	
+6260 	Manoca	
+6261 	Merchich	
+6262 	Massawa	
+6263 	Minna	
+6264 	Mhast	
+6265 	Monte_Mario	
+6266 	M_poraloko	
+6267 	North_American_Datum_1927	
+6268 	NAD_Michigan	
+6269 	North_American_Datum_1983	
+6270 	Nahrwan_1967	
+6271 	Naparima_1972	
+6272 	New_Zealand_Geodetic_Datum_1949	
+6273 	NGO_1948	
+6274 	Datum_73	
+6275 	Nouvelle_Triangulation_Francaise	
+6276 	NSWC_9Z_2	
+6277 	OSGB_1936	
+6278 	OSGB_1970_SN	
+6279 	OS_SN_1980	
+6280 	Padang_1884	
+6281 	Palestine_1923	
+6282 	Pointe_Noire	
+6283 	Geocentric_Datum_of_Australia_1994	
+6284 	Pulkovo_1942	
+6285 	Qatar	
+6286 	Qatar_1948	
+6287 	Qornoq	
+6288 	Loma_Quintana	
+6289 	Amersfoort	
+6290 	RT38	
+6291 	South_American_Datum_1969	
+6292 	Sapper_Hill_1943	
+6293 	Schwarzeck	
+6294 	Segora	
+6295 	Serindung	
+6296 	Sudan	
+6297 	Tananarive_1925	
+6298 	Timbalai_1948	
+6299 	TM65	
+6300 	TM75	
+6301 	Tokyo	
+6302 	Trinidad_1903	
+6303 	Trucial_Coast_1948	
+6304 	Voirol_1875	
+6305 	Voirol_Unifie_1960	
+6306 	Bern_1938	
+6307 	Nord_Sahara_1959	
+6308 	Stockholm_1938	
+6309 	Yacare	
+6310 	Yoff	
+6311 	Zanderij	
+6312 	Militar_Geographische_Institut	
+6313 	Reseau_National_Belge_1972	
+6314 	Deutsche_Hauptdreiecksnetz	
+6315 	Conakry_1905	
+6322 	WGS72	
+6324 	WGS72_Transit_Broadcast_Ephemeris	
+6326 	WGS84	
+6901 	Ancienne_Triangulation_Francaise	
+6902 	Nord_de_Guerre
+7001 	Airy_1830	
+7002 	Airy_Modified_1849	
+7003 	Australian_National_Spheroid	
+7004 	Bessel_1841	
+7005 	Bessel_Modified	
+7006 	Bessel_Namibia	
+7007 	Clarke_1858	
+7008 	Clarke_1866	
+7009 	Clarke_1866_Michigan	
+7010 	Clarke_1880_Benoit	
+7011 	Clarke_1880_IGN	
+7012 	Clarke_1880_RGS	
+7013 	Clarke_1880_Arc	
+7014 	Clarke_1880_SGA_1922	
+7015 	Everest_1830_1937_Adjustment	
+7016 	Everest_1830_1967_Definition	
+7017 	Everest_1830_1975_Definition	
+7018 	Everest_1830_Modified	
+7019 	GRS_1980	
+7020 	Helmert_1906	
+7021 	Indonesian_National_Spheroid	
+7022 	International_1924	
+7023 	International_1967	
+7024 	Krassowsky_1940	
+7025 	NWL_9D	
+7026 	NWL_10D	
+7027 	Plessis_1817	
+7028 	Struve_1860	
+7029 	War_Office	
+7030 	WGS_84	
+7031 	GEM_10C	
+7032 	OSU86F	
+7033 	OSU91A	
+7034 	Clarke_1880	
+7035 	Sphere
+8901 	Greenwich	
+8902 	Lisbon	
+8903 	Paris	
+8904 	Bogota	
+8905 	Madrid	
+8906 	Rome	
+8907 	Bern	
+8908 	Jakarta	
+8909 	Ferro	
+8910 	Brussels	
+8911 	Stockholm
+9001    Meter                                   = Idrisi 1.0 m
+9002 	Foot					= Idrisi 1.0 ft
+9003 	Foot_US_Survey				= Idrisi 1.000002000003999 ft
+9004 	Foot_Modified_American
+9005 	Foot_Clarke				= Idrisi 0.999991026902887 ft
+9006 	Foot_Indian				= Idrisi 0.999959345943813 ft	
+9007 	Link					
+9008 	Link_Benoit	
+9009 	Link_Sears	
+9010 	Chain_Benoit	
+9011 	Chain_Sears	
+9012 	Yard_Sears	
+9013 	Yard_Indian	
+9014 	Fathom					= Idrisi 6.0 ft
+9015 	Mile_International_Nautical		= Idrisi 1.852 km
+9016	Meter					= Idrisi 1.0 m
+9018	International_Foot			= Idrisi 1.0 ft
+9019	American_Foot				= Idrisi 1.000002000003999 ft
+9020	Cape_Foot				= Idrisi 0.999991026902887 ft
+9022	Indian_Geodetic_Foot			= Idrisi 0.999959345943813 ft
+9023	Clarke's_Ratio_Link
+9024	Link_Benoit
+9025	Link_Sears
+9026	Chain_Benoit
+9027	Chain_Sears
+9028	Yard_Sears
+9029	Yard_Indian 
+9030	Nautical_Mile				= Idrisi 1.852 km
+9031	German_Legal_Metre			= Idrisi 1.0000135965 m	
+9033	US_Survey_Chain				= Idrisi 20.1168402336805 m
+9034	US_Survey_Link				= Idrisi 0.201168402336805 m
+9035	US_Survey_Mile				= Idrisi 1.60934721869444 km
+9036	Kilometre				= Idrisi 1 km
+9037	Clark's_Yard				= Idrisi 0.914391795 m
+9038	Clarke's_Chain				= Idrisi 20.11661949 m
+9039	Clark's_Link				= Idrisi 0.2011661949 m
+9040	British_Yard_Sears_1922			= Idrisi 0.914398414616029 m
+9041	British_Foot_Sears_1922			= Idrisi 9.99998266203005e-1 ft	
+9042	British_Chain_Sears_1922		= Idrisi 20.1167651215526 m	
+9043	British_Link_Sears_1922			= Idrisi 0.21167824943759 m
+9050	British_Yard_Benoit_1895A		= IDRISI 0.9143992 m
+9051	British_Foot_Benoit_1895A		= Idrisi 9.99999125109360e-1 ft
+9052	British_Chain_Benoit_1895A		= Idrisi 20.1167824 m
+9053	British_Link_Benoit_1895A		= Idrisi 0.201167824 m
+9060	British_Yard_Benoit_1895B		= Idrisi 0.914399204289812 m
+9061	British_Foot_Benoit_1895B		= Idrisi 9.99999129800758e-1 ft
+9062	British_Chain_Benoit_1895B		= Idrisi 20.1167824943759 m
+9063	British_Link_Benoit_1895B		= Idrisi 0.201167824943759 m
+9070	British_Foot_1865			= Idrisi 1.00000273403324 ft
+9080	Indian_Foot				= Idrisi 0.999998393202582 ft
+9081	Indian_Foot_1937			= Idrisi 0.999994783464567 ft
+9082	Indian_Foot_1962			= Idrisi 0.999998687664041 ft
+9083	Indian_Foot_1975			= Idrisi 0.999998359580052 ft
+9084	Indian_Yard				= Idrisi 0.914398530744441 ft
+9085	Indian_Yard_1937			= Idrisi 0.91439523 m
+9086	Indian_Yard_1962			= Idrisi 0.9143988 m
+9087	Indian_Yard_1975			= Idrisi 0.9143985 m
+9101 	Radian					= Idrisi 1.0 rad
+9102 	Degree					= Idrisi 1.0 deg	
+9103    Arc_Minute                              = Idrisi 1.66666666666666e-2 deg 
+9104    Arc_Second                              = Idrisi 2.77777777777778e-4 deg
+9105 	Grad					= Idrisi 0.01570796326795e-5 rad
+9106 	Gon					= Idrisi 0.01570796326795e-5 rad	
+9107 	DMS	
+9108 	DMS_Hemisphere
+9109	Micro_Radian				= Idrisi 0.000001 rad
+9112    Centesimal_Minute                       = Idrisi 1.57079632679490e-4 rad
+9114	Mil_6400				= Idrisi 0.05625 deg
+10101 	Alabama_CS27_East	
+10102 	Alabama_CS27_West	
+10131 	Alabama_CS83_East	
+10132 	Alabama_CS83_West	
+10201 	Arizona_Coordinate_System_east	
+10202 	Arizona_Coordinate_System_Central	
+10203 	Arizona_Coordinate_System_west	
+10231 	Arizona_CS83_east	
+10232 	Arizona_CS83_Central	
+10233 	Arizona_CS83_west	
+10301 	Arkansas_CS27_North	
+10302 	Arkansas_CS27_South	
+10331 	Arkansas_CS83_North	
+10332 	Arkansas_CS83_South	
+10401 	California_CS27_I	
+10402 	California_CS27_II	
+10403 	California_CS27_III	
+10404 	California_CS27_IV	
+10405 	California_CS27_V	
+10406 	California_CS27_VI	
+10407 	California_CS27_VII	
+10431 	California_CS83_1	
+10432 	California_CS83_2	
+10433 	California_CS83_3	
+10434 	California_CS83_4	
+10435 	California_CS83_5	
+10436 	California_CS83_6	
+10501 	Colorado_CS27_North	
+10502 	Colorado_CS27_Central	
+10503 	Colorado_CS27_South	
+10531 	Colorado_CS83_North	
+10532 	Colorado_CS83_Central	
+10533 	Colorado_CS83_South	
+10600 	Connecticut_CS27	
+10630 	Connecticut_CS83	
+10700 	Delaware_CS27	
+10730 	Delaware_CS83	
+10901 	Florida_CS27_East	
+10902 	Florida_CS27_West	
+10903 	Florida_CS27_North	
+10931 	Florida_CS83_East	
+10932 	Florida_CS83_West	
+10933 	Florida_CS83_North	
+11001 	Georgia_CS27_East	
+11002 	Georgia_CS27_West	
+11031 	Georgia_CS83_East	
+11032 	Georgia_CS83_West	
+11101 	Idaho_CS27_East	
+11102 	Idaho_CS27_Central	
+11103 	Idaho_CS27_West	
+11131 	Idaho_CS83_East	
+11132 	Idaho_CS83_Central	
+11133 	Idaho_CS83_West	
+11201 	Illinois_CS27_East	
+11202 	Illinois_CS27_West	
+11231 	Illinois_CS83_East	
+11232 	Illinois_CS83_West	
+11301 	Indiana_CS27_East	
+11302 	Indiana_CS27_West	
+11331 	Indiana_CS83_East	
+11332 	Indiana_CS83_West	
+11401 	Iowa_CS27_North	
+11402 	Iowa_CS27_South	
+11431 	Iowa_CS83_North	
+11432 	Iowa_CS83_South	
+11501 	Kansas_CS27_North	
+11502 	Kansas_CS27_South	
+11531 	Kansas_CS83_North	
+11532 	Kansas_CS83_South	
+11601 	Kentucky_CS27_North	
+11602 	Kentucky_CS27_South	
+11631 	Kentucky_CS83_North	
+11632 	Kentucky_CS83_South	
+11701 	Louisiana_CS27_North	
+11702 	Louisiana_CS27_South	
+11731 	Louisiana_CS83_North	
+11732 	Louisiana_CS83_South	
+11801 	Maine_CS27_East	
+11802 	Maine_CS27_West	
+11831 	Maine_CS83_East	
+11832 	Maine_CS83_West	
+11900 	Maryland_CS27	
+11930 	Maryland_CS83	
+12001 	Massachusetts_CS27_Mainland	
+12002 	Massachusetts_CS27_Island	
+12031 	Massachusetts_CS83_Mainland	
+12032 	Massachusetts_CS83_Island	
+12101 	Michigan_State_Plane_East	
+12102 	Michigan_State_Plane_Old_Central	
+12103 	Michigan_State_Plane_West	
+12111 	Michigan_CS27_North	
+12112 	Michigan_CS27_Central	
+12113 	Michigan_CS27_South	
+12141 	Michigan_CS83_North	
+12142 	Michigan_CS83_Central	
+12143 	Michigan_CS83_South	
+12201 	Minnesota_CS27_North	
+12202 	Minnesota_CS27_Central	
+12203 	Minnesota_CS27_South	
+12231 	Minnesota_CS83_North	
+12232 	Minnesota_CS83_Central	
+12233 	Minnesota_CS83_South	
+12301 	Mississippi_CS27_East	
+12302 	Mississippi_CS27_West	
+12331 	Mississippi_CS83_East	
+12332 	Mississippi_CS83_West	
+12401 	Missouri_CS27_East	
+12402 	Missouri_CS27_Central	
+12403 	Missouri_CS27_West	
+12431 	Missouri_CS83_East	
+12432 	Missouri_CS83_Central	
+12433 	Missouri_CS83_West	
+12501 	Montana_CS27_North	
+12502 	Montana_CS27_Central	
+12503 	Montana_CS27_South	
+12530 	Montana_CS83	
+12601 	Nebraska_CS27_North	
+12602 	Nebraska_CS27_South	
+12630 	Nebraska_CS83	
+12701 	Nevada_CS27_East	
+12702 	Nevada_CS27_Central	
+12703 	Nevada_CS27_West	
+12731 	Nevada_CS83_East	
+12732 	Nevada_CS83_Central	
+12733 	Nevada_CS83_West	
+12800 	New_Hampshire_CS27	
+12830 	New_Hampshire_CS83	
+12900 	New_Jersey_CS27	
+12930 	New_Jersey_CS83	
+13001 	New_Mexico_CS27_East	
+13002 	New_Mexico_CS27_Central	
+13003 	New_Mexico_CS27_West	
+13031 	New_Mexico_CS83_East	
+13032 	New_Mexico_CS83_Central	
+13033 	New_Mexico_CS83_West	
+13101 	New_York_CS27_East	
+13102 	New_York_CS27_Central	
+13103 	New_York_CS27_West	
+13104 	New_York_CS27_Long_Island	
+13131 	New_York_CS83_East	
+13132 	New_York_CS83_Central	
+13133 	New_York_CS83_West	
+13134 	New_York_CS83_Long_Island	
+13200 	North_Carolina_CS27	
+13230 	North_Carolina_CS83	
+13301 	North_Dakota_CS27_North	
+13302 	North_Dakota_CS27_South	
+13331 	North_Dakota_CS83_North	
+13332 	North_Dakota_CS83_South	
+13401 	Ohio_CS27_North	
+13402 	Ohio_CS27_South	
+13431 	Ohio_CS83_North	
+13432 	Ohio_CS83_South	
+13501 	Oklahoma_CS27_North	
+13502 	Oklahoma_CS27_South	
+13531 	Oklahoma_CS83_North	
+13532 	Oklahoma_CS83_South	
+13601 	Oregon_CS27_North	
+13602 	Oregon_CS27_South	
+13631 	Oregon_CS83_North	
+13632 	Oregon_CS83_South	
+13701 	Pennsylvania_CS27_North	
+13702 	Pennsylvania_CS27_South	
+13731 	Pennsylvania_CS83_North	
+13732 	Pennsylvania_CS83_South	
+13800 	Rhode_Island_CS27	
+13830 	Rhode_Island_CS83	
+13901 	South_Carolina_CS27_North	
+13902 	South_Carolina_CS27_South	
+13930 	South_Carolina_CS83	
+14001 	South_Dakota_CS27_North	
+14002 	South_Dakota_CS27_South	
+14031 	South_Dakota_CS83_North	
+14032 	South_Dakota_CS83_South	
+14100 	Tennessee_CS27	
+14130 	Tennessee_CS83	
+14201 	Texas_CS27_North	
+14202 	Texas_CS27_North_Central	
+14203 	Texas_CS27_Central	
+14204 	Texas_CS27_South_Central	
+14205 	Texas_CS27_South	
+14231 	Texas_CS83_North	
+14232 	Texas_CS83_North_Central	
+14233 	Texas_CS83_Central	
+14234 	Texas_CS83_South_Central	
+14235 	Texas_CS83_South	
+14301 	Utah_CS27_North	
+14302 	Utah_CS27_Central	
+14303 	Utah_CS27_South	
+14331 	Utah_CS83_North	
+14332 	Utah_CS83_Central	
+14333 	Utah_CS83_South	
+14400 	Vermont_CS27	
+14430 	Vermont_CS83	
+14501 	Virginia_CS27_North	
+14502 	Virginia_CS27_South	
+14531 	Virginia_CS83_North	
+14532 	Virginia_CS83_South	
+14601 	Washington_CS27_North	
+14602 	Washington_CS27_South	
+14631 	Washington_CS83_North	
+14632 	Washington_CS83_South	
+14701 	West_Virginia_CS27_North	
+14702 	West_Virginia_CS27_South	
+14731 	West_Virginia_CS83_North	
+14732 	West_Virginia_CS83_South	
+14801 	Wisconsin_CS27_North	
+14802 	Wisconsin_CS27_Central	
+14803 	Wisconsin_CS27_South	
+14831 	Wisconsin_CS83_North	
+14832 	Wisconsin_CS83_Central	
+14833 	Wisconsin_CS83_South	
+14901 	Wyoming_CS27_East	
+14902 	Wyoming_CS27_East_Central	
+14903 	Wyoming_CS27_West_Central	
+14904 	Wyoming_CS27_West	
+14931 	Wyoming_CS83_East	
+14932 	Wyoming_CS83_East_Central	
+14933 	Wyoming_CS83_West_Central	
+14934 	Wyoming_CS83_West	
+15001 	Alaska_CS27_1	
+15002 	Alaska_CS27_2	
+15003 	Alaska_CS27_3	
+15004 	Alaska_CS27_4	
+15005 	Alaska_CS27_5	
+15006 	Alaska_CS27_6	
+15007 	Alaska_CS27_7	
+15008 	Alaska_CS27_8	
+15009 	Alaska_CS27_9	
+15010 	Alaska_CS27_10	
+15031 	Alaska_CS83_1	
+15032 	Alaska_CS83_2	
+15033 	Alaska_CS83_3	
+15034 	Alaska_CS83_4	
+15035 	Alaska_CS83_5	
+15036 	Alaska_CS83_6	
+15037 	Alaska_CS83_7	
+15038 	Alaska_CS83_8	
+15039 	Alaska_CS83_9	
+15040 	Alaska_CS83_10	
+15101 	Hawaii_CS27_1	
+15102 	Hawaii_CS27_2	
+15103 	Hawaii_CS27_3	
+15104 	Hawaii_CS27_4	
+15105 	Hawaii_CS27_5	
+15131 	Hawaii_CS83_1	
+15132 	Hawaii_CS83_2	
+15133 	Hawaii_CS83_3	
+15134 	Hawaii_CS83_4	
+15135 	Hawaii_CS83_5	
+15201 	Puerto_Rico_CS27	
+15202 	St_Croix	
+15230 	Puerto_Rico_Virgin_Is	
+15914 	BLM_14N_feet	
+15915 	BLM_15N_feet	
+15916 	BLM_16N_feet	
+15917 	BLM_17N_feet	
+16001 	UTM_zone_1N	
+16002 	UTM_zone_2N	
+16003 	UTM_zone_3N	
+16004 	UTM_zone_4N	
+16005 	UTM_zone_5N	
+16006 	UTM_zone_6N	
+16007 	UTM_zone_7N	
+16008 	UTM_zone_8N	
+16009 	UTM_zone_9N	
+16010 	UTM_zone_10N	
+16011 	UTM_zone_11N	
+16012 	UTM_zone_12N	
+16013 	UTM_zone_13N	
+16014 	UTM_zone_14N	
+16015 	UTM_zone_15N	
+16016 	UTM_zone_16N	
+16017 	UTM_zone_17N	
+16018 	UTM_zone_18N	
+16019 	UTM_zone_19N	
+16020 	UTM_zone_20N	
+16021 	UTM_zone_21N	
+16022 	UTM_zone_22N	
+16023 	UTM_zone_23N	
+16024 	UTM_zone_24N	
+16025 	UTM_zone_25N	
+16026 	UTM_zone_26N	
+16027 	UTM_zone_27N	
+16028 	UTM_zone_28N	
+16029 	UTM_zone_29N	
+16030 	UTM_zone_30N	
+16031 	UTM_zone_31N	
+16032 	UTM_zone_32N	
+16033 	UTM_zone_33N	
+16034 	UTM_zone_34N	
+16035 	UTM_zone_35N	
+16036 	UTM_zone_36N	
+16037 	UTM_zone_37N	
+16038 	UTM_zone_38N	
+16039 	UTM_zone_39N	
+16040 	UTM_zone_40N	
+16041 	UTM_zone_41N	
+16042 	UTM_zone_42N	
+16043 	UTM_zone_43N	
+16044 	UTM_zone_44N	
+16045 	UTM_zone_45N	
+16046 	UTM_zone_46N	
+16047 	UTM_zone_47N	
+16048 	UTM_zone_48N	
+16049 	UTM_zone_49N	
+16050 	UTM_zone_50N	
+16051 	UTM_zone_51N	
+16052 	UTM_zone_52N	
+16053 	UTM_zone_53N	
+16054 	UTM_zone_54N	
+16055 	UTM_zone_55N	
+16056 	UTM_zone_56N	
+16057 	UTM_zone_57N	
+16058 	UTM_zone_58N	
+16059 	UTM_zone_59N	
+16060 	UTM_zone_60N	
+16101 	UTM_zone_1S	
+16102 	UTM_zone_2S	
+16103 	UTM_zone_3S	
+16104 	UTM_zone_4S	
+16105 	UTM_zone_5S	
+16106 	UTM_zone_6S	
+16107 	UTM_zone_7S	
+16108 	UTM_zone_8S	
+16109 	UTM_zone_9S	
+16110 	UTM_zone_10S	
+16111 	UTM_zone_11S	
+16112 	UTM_zone_12S	
+16113 	UTM_zone_13S	
+16114 	UTM_zone_14S	
+16115 	UTM_zone_15S	
+16116 	UTM_zone_16S	
+16117 	UTM_zone_17S	
+16118 	UTM_zone_18S	
+16119 	UTM_zone_19S	
+16120 	UTM_zone_20S	
+16121 	UTM_zone_21S	
+16122 	UTM_zone_22S	
+16123 	UTM_zone_23S	
+16124 	UTM_zone_24S	
+16125 	UTM_zone_25S	
+16126 	UTM_zone_26S	
+16127 	UTM_zone_27S	
+16128 	UTM_zone_28S	
+16129 	UTM_zone_29S	
+16130 	UTM_zone_30S	
+16131 	UTM_zone_31S	
+16132 	UTM_zone_32S	
+16133 	UTM_zone_33S	
+16134 	UTM_zone_34S	
+16135 	UTM_zone_35S	
+16136 	UTM_zone_36S	
+16137 	UTM_zone_37S	
+16138 	UTM_zone_38S	
+16139 	UTM_zone_39S	
+16140 	UTM_zone_40S	
+16141 	UTM_zone_41S	
+16142 	UTM_zone_42S	
+16143 	UTM_zone_43S	
+16144 	UTM_zone_44S	
+16145 	UTM_zone_45S	
+16146 	UTM_zone_46S	
+16147 	UTM_zone_47S	
+16148 	UTM_zone_48S	
+16149 	UTM_zone_49S	
+16150 	UTM_zone_50S	
+16151 	UTM_zone_51S	
+16152 	UTM_zone_52S	
+16153 	UTM_zone_53S	
+16154 	UTM_zone_54S	
+16155 	UTM_zone_55S	
+16156 	UTM_zone_56S	
+16157 	UTM_zone_57S	
+16158 	UTM_zone_58S	
+16159 	UTM_zone_59S	
+16160 	UTM_zone_60S	
+16200 	Gauss_Kruger_zone_0	
+16201 	Gauss_Kruger_zone_1	
+16202 	Gauss_Kruger_zone_2	
+16203 	Gauss_Kruger_zone_3	
+16204 	Gauss_Kruger_zone_4	
+16205 	Gauss_Kruger_zone_5	
+17348 	Map_Grid_of_Australia_48	
+17349 	Map_Grid_of_Australia_49	
+17350 	Map_Grid_of_Australia_50	
+17351 	Map_Grid_of_Australia_51	
+17352 	Map_Grid_of_Australia_52	
+17353 	Map_Grid_of_Australia_53	
+17354 	Map_Grid_of_Australia_54	
+17355 	Map_Grid_of_Australia_55	
+17356 	Map_Grid_of_Australia_56	
+17357 	Map_Grid_of_Australia_57	
+17358 	Map_Grid_of_Australia_58	
+17448 	Australian_Map_Grid_48	
+17449 	Australian_Map_Grid_49	
+17450 	Australian_Map_Grid_50	
+17451 	Australian_Map_Grid_51	
+17452 	Australian_Map_Grid_52	
+17453 	Australian_Map_Grid_53	
+17454 	Australian_Map_Grid_54	
+17455 	Australian_Map_Grid_55	
+17456 	Australian_Map_Grid_56	
+17457 	Australian_Map_Grid_57	
+17458 	Australian_Map_Grid_58	
+18031 	Argentina_1	
+18032 	Argentina_2	
+18033 	Argentina_3	
+18034 	Argentina_4	
+18035 	Argentina_5	
+18036 	Argentina_6	
+18037 	Argentina_7	
+18051 	Colombia_3W	
+18052 	Colombia_Bogota	
+18053 	Colombia_3E	
+18054 	Colombia_6E	
+18072 	Egypt_Red_Belt	
+18073 	Egypt_Purple_Belt	
+18074 	Extended_Purple_Belt	
+18141 	New_Zealand_North_Island_Nat_Grid	
+18142 	New_Zealand_South_Island_Nat_Grid	
+19900 	Bahrain_Grid	
+19905 	Netherlands_E_Indies_Equatorial	
+19912 	RSO_Borneo
+20137 	Adindan_UTM_zone_37N	
+20138 	Adindan_UTM_zone_38N	
+20248 	AGD66_AMG_zone_48	
+20249 	AGD66_AMG_zone_49	
+20250 	AGD66_AMG_zone_50	
+20251 	AGD66_AMG_zone_51	
+20252 	AGD66_AMG_zone_52	
+20253 	AGD66_AMG_zone_53	
+20254 	AGD66_AMG_zone_54	
+20255 	AGD66_AMG_zone_55	
+20256 	AGD66_AMG_zone_56	
+20257 	AGD66_AMG_zone_57	
+20258 	AGD66_AMG_zone_58	
+20348 	AGD84_AMG_zone_48	
+20349 	AGD84_AMG_zone_49	
+20350 	AGD84_AMG_zone_50	
+20351 	AGD84_AMG_zone_51	
+20352 	AGD84_AMG_zone_52	
+20353 	AGD84_AMG_zone_53	
+20354 	AGD84_AMG_zone_54	
+20355 	AGD84_AMG_zone_55	
+20356 	AGD84_AMG_zone_56	
+20357 	AGD84_AMG_zone_57	
+20358 	AGD84_AMG_zone_58	
+20437 	Ain_el_Abd_UTM_zone_37N	
+20438 	Ain_el_Abd_UTM_zone_38N	
+20439 	Ain_el_Abd_UTM_zone_39N	
+20499 	Ain_el_Abd_Bahrain_Grid	
+20538 	Afgooye_UTM_zone_38N	
+20539 	Afgooye_UTM_zone_39N	
+20700 	Lisbon_Portugese_Grid	
+20822 	Aratu_UTM_zone_22S	
+20823 	Aratu_UTM_zone_23S	
+20824 	Aratu_UTM_zone_24S	
+20973 	Arc_1950_Lo13	
+20975 	Arc_1950_Lo15	
+20977 	Arc_1950_Lo17	
+20979 	Arc_1950_Lo19	
+20981 	Arc_1950_Lo21	
+20983 	Arc_1950_Lo23	
+20985 	Arc_1950_Lo25	
+20987 	Arc_1950_Lo27	
+20989 	Arc_1950_Lo29	
+20991 	Arc_1950_Lo31	
+20993 	Arc_1950_Lo33	
+20995 	Arc_1950_Lo35	
+21100 	Batavia_NEIEZ	
+21148 	Batavia_UTM_zone_48S	
+21149 	Batavia_UTM_zone_49S	
+21150 	Batavia_UTM_zone_50S	
+21413 	Beijing_Gauss_zone_13	
+21414 	Beijing_Gauss_zone_14	
+21415 	Beijing_Gauss_zone_15	
+21416 	Beijing_Gauss_zone_16	
+21417 	Beijing_Gauss_zone_17	
+21418 	Beijing_Gauss_zone_18	
+21419 	Beijing_Gauss_zone_19	
+21420 	Beijing_Gauss_zone_20	
+21421 	Beijing_Gauss_zone_21	
+21422 	Beijing_Gauss_zone_22	
+21423 	Beijing_Gauss_zone_23	
+21473 	Beijing_Gauss_13N	
+21474 	Beijing_Gauss_14N	
+21475 	Beijing_Gauss_15N	
+21476 	Beijing_Gauss_16N	
+21477 	Beijing_Gauss_17N	
+21478 	Beijing_Gauss_18N	
+21479 	Beijing_Gauss_19N	
+21480 	Beijing_Gauss_20N	
+21481 	Beijing_Gauss_21N	
+21482 	Beijing_Gauss_22N	
+21483 	Beijing_Gauss_23N	
+21500 	Belge_Lambert_50	
+21790 	Bern_1898_Swiss_Old	
+21817 	Bogota_UTM_zone_17N	
+21818 	Bogota_UTM_zone_18N	
+21891 	Bogota_Colombia_3W	
+21892 	Bogota_Colombia_Bogota	
+21893 	Bogota_Colombia_3E	
+21894 	Bogota_Colombia_6E	
+22032 	Camacupa_UTM_32S	
+22033 	Camacupa_UTM_33S	
+22191 	C_Inchauspe_Argentina_1	
+22192 	C_Inchauspe_Argentina_2	
+22193 	C_Inchauspe_Argentina_3	
+22194 	C_Inchauspe_Argentina_4	
+22195 	C_Inchauspe_Argentina_5	
+22196 	C_Inchauspe_Argentina_6	
+22197 	C_Inchauspe_Argentina_7	
+22332 	Carthage_UTM_zone_32N	
+22391 	Carthage_Nord_Tunisie	
+22392 	Carthage_Sud_Tunisie	
+22523 	Corrego_Alegre_UTM_23S	
+22524 	Corrego_Alegre_UTM_24S	
+22832 	Douala_UTM_zone_32N	
+22992 	Egypt_1907_Red_Belt	
+22993 	Egypt_1907_Purple_Belt	
+22994 	Egypt_1907_Ext_Purple	
+23028 	ED50_UTM_zone_28N	
+23029 	ED50_UTM_zone_29N	
+23030 	ED50_UTM_zone_30N	
+23031 	ED50_UTM_zone_31N	
+23032 	ED50_UTM_zone_32N	
+23033 	ED50_UTM_zone_33N	
+23034 	ED50_UTM_zone_34N	
+23035 	ED50_UTM_zone_35N	
+23036 	ED50_UTM_zone_36N	
+23037 	ED50_UTM_zone_37N	
+23038 	ED50_UTM_zone_38N	
+23239 	Fahud_UTM_zone_39N	
+23240 	Fahud_UTM_zone_40N	
+23433 	Garoua_UTM_zone_33N	
+23846 	ID74_UTM_zone_46N	
+23847 	ID74_UTM_zone_47N	
+23848 	ID74_UTM_zone_48N	
+23849 	ID74_UTM_zone_49N	
+23850 	ID74_UTM_zone_50N	
+23851 	ID74_UTM_zone_51N	
+23852 	ID74_UTM_zone_52N	
+23853 	ID74_UTM_zone_53N	
+23886 	ID74_UTM_zone_46S	
+23887 	ID74_UTM_zone_47S	
+23888 	ID74_UTM_zone_48S	
+23889 	ID74_UTM_zone_49S	
+23890 	ID74_UTM_zone_50S	
+23891 	ID74_UTM_zone_51S	
+23892 	ID74_UTM_zone_52S	
+23893 	ID74_UTM_zone_53S	
+23894 	ID74_UTM_zone_54S	
+23947 	Indian_1954_UTM_47N	
+23948 	Indian_1954_UTM_48N	
+24047 	Indian_1975_UTM_47N	
+24048 	Indian_1975_UTM_48N	
+24100 	Jamaica_1875_Old_Grid	
+24200 	JAD69_Jamaica_Grid	
+24370 	Kalianpur_India_0	
+24371 	Kalianpur_India_I	
+24372 	Kalianpur_India_IIa	
+24373 	Kalianpur_India_IIIa	
+24374 	Kalianpur_India_IVa	
+24382 	Kalianpur_India_IIb	
+24383 	Kalianpur_India_IIIb	
+24384 	Kalianpur_India_IVb	
+24500 	Kertau_Singapore_Grid	
+24547 	Kertau_UTM_zone_47N	
+24548 	Kertau_UTM_zone_48N	
+24720 	La_Canoa_UTM_zone_20N	
+24721 	La_Canoa_UTM_zone_21N	
+24818 	PSAD56_UTM_zone_18N	
+24819 	PSAD56_UTM_zone_19N	
+24820 	PSAD56_UTM_zone_20N	
+24821 	PSAD56_UTM_zone_21N	
+24877 	PSAD56_UTM_zone_17S	
+24878 	PSAD56_UTM_zone_18S	
+24879 	PSAD56_UTM_zone_19S	
+24880 	PSAD56_UTM_zone_20S	
+24891 	PSAD56_Peru_west_zone	
+24892 	PSAD56_Peru_central	
+24893 	PSAD56_Peru_east_zone	
+25000 	Leigon_Ghana_Grid	
+25231 	Lome_UTM_zone_31N	
+25391 	Luzon_Philippines_I	
+25392 	Luzon_Philippines_II	
+25393 	Luzon_Philippines_III	
+25394 	Luzon_Philippines_IV	
+25395 	Luzon_Philippines_V	
+25700 	Makassar_NEIEZ	
+25932 	Malongo_1987_UTM_32S	
+26191 	Merchich_Nord_Maroc	
+26192 	Merchich_Sud_Maroc	
+26193 	Merchich_Sahara	
+26237 	Massawa_UTM_zone_37N	
+26331 	Minna_UTM_zone_31N	
+26332 	Minna_UTM_zone_32N	
+26391 	Minna_Nigeria_West	
+26392 	Minna_Nigeria_Mid_Belt	
+26393 	Minna_Nigeria_East	
+26432 	Mhast_UTM_zone_32S	
+26591 	Monte_Mario_Italy_1	
+26592 	Monte_Mario_Italy_2	
+26632 	M_poraloko_UTM_32N	
+26692 	M_poraloko_UTM_32S	
+26703 	NAD27_UTM_zone_3N			= Idrisi us27tm3.ref
+26704 	NAD27_UTM_zone_4N			= Idrisi us27tm4.ref
+26705 	NAD27_UTM_zone_5N			= Idrisi us27tm5.ref
+26706 	NAD27_UTM_zone_6N			= Idrisi us27tm6.ref
+26707 	NAD27_UTM_zone_7N			= Idrisi us27tm7.ref
+26708 	NAD27_UTM_zone_8N			= Idrisi us27tm8.ref
+26709 	NAD27_UTM_zone_9N			= Idrisi us27tm9.ref
+26710 	NAD27_UTM_zone_10N			= Idrisi us27tm10.ref
+26711 	NAD27_UTM_zone_11N			= Idrisi us27tm11.ref
+26712 	NAD27_UTM_zone_12N			= Idrisi us27tm12.ref
+26713 	NAD27_UTM_zone_13N			= Idrisi us27tm13.ref
+26714 	NAD27_UTM_zone_14N			= Idrisi us27tm14.ref
+26715 	NAD27_UTM_zone_15N			= Idrisi us27tm15.ref
+26716 	NAD27_UTM_zone_16N			= Idrisi us27tm16.ref
+26717 	NAD27_UTM_zone_17N			= Idrisi us27tm17.ref
+26718 	NAD27_UTM_zone_18N			= Idrisi us27tm18.ref
+26719 	NAD27_UTM_zone_19N			= Idrisi us27tm19.ref
+26720 	NAD27_UTM_zone_20N			= Idrisi us27tm20.ref
+26721 	NAD27_UTM_zone_21N	
+26722 	NAD27_UTM_zone_22N	
+26729   NAD27_Alabama_East                      = Idrisi spc27al1.ref
+26730   NAD27_Alabama_West                      = Idrisi spc27al2.ref
+26731 	NAD27_Alaska_zone_1	                       						  
+26732   NAD27_Alaska_zone_2                     = Idrisi spc27ak2.ref 
+26733   NAD27_Alaska_zone_3                     = Idrisi spc27ak3.ref 
+26734   NAD27_Alaska_zone_4                     = Idrisi spc27ak4.ref 
+26735   NAD27_Alaska_zone_5                     = Idrisi spc27ak5.ref 
+26736   NAD27_Alaska_zone_6                     = Idrisi spc27ak6.ref 
+26737   NAD27_Alaska_zone_7                     = Idrisi spc27ak7.ref 
+26738   NAD27_Alaska_zone_8                     = Idrisi spc27ak8.ref 
+26739   NAD27_Alaska_zone_9                     = Idrisi spc27ak9.ref 
+26740   NAD27_Alaska_zone_10                    = Idrisi spc27ak10.ref              
+26741   NAD27_California_I                      = Idrisi spc27ca1.ref 
+26742   NAD27_California_II                     = Idrisi spc27ca2.ref 
+26743   NAD27_California_III                    = Idrisi spc27ca3.ref 
+26744   NAD27_California_IV                     = Idrisi spc27ca4.ref 
+26745   NAD27_California_V                      = Idrisi spc27ca5.ref 
+26746   NAD27_California_VI                     = Idrisi spc27ca6.ref 
+26747   NAD27_California_VII                    = Idrisi spc27ca7.ref 
+26748   NAD27_Arizona_East                      = Idrisi spc27az1.ref 
+26749   NAD27_Arizona_Central                   = Idirsi spc27az2.ref 
+26750   NAD27_Arizona_West                      = Idrisi spc27az3.ref 
+26751   NAD27_Arkansas_North                    = Idrisi spc27ar1.ref 
+26752   NAD27_Arkansas_South                    = Idrisi spc27ar2.ref 
+26753   NAD27_Colorado_North                    = Idrisi spc27co1.ref 
+26754   NAD27_Colorado_Central                  = Idrisi spc27co2.ref 
+26755   NAD27_Colorado_South                    = Idrisi spc27co3.ref 
+26756   NAD27_Connecticut                       = Idrisi spc27ct1.ref  
+26757   NAD27_Delaware                          = Idrisi spc27de1.ref 
+26758   NAD27_Florida_East                      = Idrisi spc27fl1.ref
+26759   NAD27_Florida_West                      = Idrisi spc27fl2.ref 
+26760   NAD27_Florida_North                     = Idrisi spc27fl3.ref 
+3561    NAD27_Hawaii_zone_1                     = Idrisi spc27hi1.ref
+3562    NAD27_Hawaii_zone_2                     = Idrisi spc27hi2.ref
+3563    NAD27_Hawaii_zone_3                     = Idrisi spc27hi3.ref
+3564    NAD27_Hawaii_zone_4                     = Idrisi spc27hi4.ref
+3565    NAD27_Hawaii_zone_5                     = Idrisi spc27hi5.ref
+26766   NAD27_Georgia_East                      = Idrisi spc27ga1.ref
+26767   NAD27_Georgia_West                      = Idrisi spc27ga2.ref
+26768   NAD27_Idaho_East                        = Idrisi spc27id1.ref
+26769   NAD27_Idaho_Central                     = Idrisi spc27id2.ref
+26770   NAD27_Idaho_West                        = Idrisi spc27id3.ref
+26771   NAD27_Illinois_East                     = Idrisi spc27il1.ref
+26772 	NAD27_Illinois_West			= Idrisi spc27il2.ref
+26773 	NAD27_Indiana_East			= Idrisi spc27in1.ref
+26774 	NAD27_BLM_14N_feet	
+26774 	NAD27_Indiana_West			= Idrisi spc27in2.ref
+26775 	NAD27_BLM_15N_feet	
+26775 	NAD27_Iowa_North			= Idrisi spc27ia1.ref
+26776 	NAD27_BLM_16N_feet	
+26776 	NAD27_Iowa_South			= Idrisi spc27ia2.ref
+26777 	NAD27_BLM_17N_feet	
+26777 	NAD27_Kansas_North			= Idrisi spc27ks1.ref
+26778 	NAD27_Kansas_South			= Idrisi spc27ks2.ref
+26779 	NAD27_Kentucky_North			= Idrisi spc27ky1.ref
+26780 	NAD27_Kentucky_South			= Idrisi spc27ky2.ref
+26781 	NAD27_Louisiana_North			= Idrisi spc27la1.ref
+26782 	NAD27_Louisiana_South			= Idrisi spc27la2.ref
+26783 	NAD27_Maine_East			= Idrisi spc27me1.ref
+26784 	NAD27_Maine_West			= Idrisi spc27me2.ref
+26785 	NAD27_Maryland				= Idrisi spc27md1.ref
+26786 	NAD27_Massachusetts			= Idrisi spc27ma1.ref
+26787 	NAD27_Massachusetts_Is			= Idrisi spc27ma2.ref	
+26811 	NAD27_Michigan_North			= Idrisi spc27mi1.ref
+26812 	NAD27_Michigan_Central			= Idrisi spc27mi2.ref
+26813 	NAD27_Michigan_South			= Idrisi spc27mi3.ref
+26791 	NAD27_Minnesota_North			= Idrisi spc27mn1.ref
+26792 	NAD27_Minnesota_Cent			= Idrisi spc27mn2.ref
+26793 	NAD27_Minnesota_South			= Idrisi spc27mn3.ref
+26794 	NAD27_Mississippi_East			= Idrisi spc27ms1.ref
+26795 	NAD27_Mississippi_West			= Idrisi spc27ms2.ref
+26796 	NAD27_Missouri_East			= Idrisi spc27mo1.ref
+26797 	NAD27_Missouri_Central			= Idrisi spc27mo2.ref
+26798 	NAD27_Missouri_West			= Idrisi spc27mo3.ref
+26801 	NAD_Michigan_Michigan_East		= Idrisi spc27mi4.ref
+26802 	NAD_Michigan_Michigan_Old_Central	= Idrisi spc27mi5.ref
+26803 	NAD_Michigan_Michigan_West		= Idrisi spc27mi6.ref
+26903 	NAD83_UTM_zone_3N			= Idrisi us83tm3.ref
+26904 	NAD83_UTM_zone_4N			= Idrisi us83tm4.ref
+26905 	NAD83_UTM_zone_5N			= Idrisi us83tm5.ref
+26906 	NAD83_UTM_zone_6N			= Idrisi us83tm6.ref
+26907 	NAD83_UTM_zone_7N			= Idrisi us83tm7.ref
+26908 	NAD83_UTM_zone_8N			= Idrisi us83tm8.ref
+26909 	NAD83_UTM_zone_9N			= Idrisi us83tm9.ref
+26910 	NAD83_UTM_zone_10N			= Idrisi us83tm10.ref
+26911 	NAD83_UTM_zone_11N			= Idrisi us83tM11.ref
+26912 	NAD83_UTM_zone_12N			= Idrisi us83tm12.ref
+26913 	NAD83_UTM_zone_13N			= Idrisi us83tm13.ref
+26914 	NAD83_UTM_zone_14N			= Idrisi us83tm14.ref
+26915 	NAD83_UTM_zone_15N			= Idrisi us83tm15.ref
+26916 	NAD83_UTM_zone_16N			= Idrisi us83tm16.ref
+26917 	NAD83_UTM_zone_17N			= Idrisi us83tm17.ref
+26918 	NAD83_UTM_zone_18N			= Idrisi us83tm18.ref
+26919 	NAD83_UTM_zone_19N			= Idrisi us83tm19.ref
+26920 	NAD83_UTM_zone_20N			= Idrisi us83tm20.ref
+26921 	NAD83_UTM_zone_21N	
+26922 	NAD83_UTM_zone_22N	
+26923 	NAD83_UTM_zone_23N	
+26929 	NAD83_Alabama_East			= Idrisi spc83al1.ref
+26930 	NAD83_Alabama_West			= Idrisi spc83al2.ref
+26931 	NAD83_Alaska_zone_1	
+26932 	NAD83_Alaska_zone_2                     = Idrisi spc83ak2.ref	
+26933 	NAD83_Alaska_zone_3	                = Idrisi spc83ak3.ref
+26934 	NAD83_Alaska_zone_4	                = Idrisi spc83ak4.ref
+26935 	NAD83_Alaska_zone_5	                = Idrisi spc83ak5.ref
+26936 	NAD83_Alaska_zone_6	                = Idrisi spc83ak6.ref
+26937 	NAD83_Alaska_zone_7                     = Idrisi spc83ak7.ref	
+26938 	NAD83_Alaska_zone_8                     = Idrisi spc83ak8.ref	
+26939 	NAD83_Alaska_zone_9	                = Idrisi spc83ak9.ref
+26940 	NAD83_Alaska_zone_10	                = Idrisi spc83ak10.ref
+26941 	NAD83_California_1                      = Idrisi spc83ca1.ref	
+26942 	NAD83_California_2	                = Idrisi spc83ca2.ref
+26943 	NAD83_California_3	                = Idrisi spc83ca3.ref
+26944 	NAD83_California_4	                = Idrisi spc83ca4.ref
+26945 	NAD83_California_5	                = Idrisi spc83ca5.ref
+26946 	NAD83_California_6                      = Idrisi spc83ca6.ref	
+26948 	NAD83_Arizona_East                      = Idrisi spc83az1.ref
+26949 	NAD83_Arizona_Central	                = Idrisi spc83az2.ref               
+26950 	NAD83_Arizona_West	       		= Idrisi spc83az3.ref
+26951 	NAD83_Arkansas_North                    = Idirsi spc83ar1.ref	
+26952 	NAD83_Arkansas_South	                = Idrisi spc83ar2.ref
+26953 	NAD83_Colorado_North                    = Idrisi spc83co1.ref	
+26954 	NAD83_Colorado_Central	                = Idrisi spc83co2.ref
+26955   NAD83_Colorado_South                    = Idrisi spc83co3.ref	
+26956 	NAD83_Connecticut	                = Idrisi spc83ct1.ref
+26957 	NAD83_Delaware	                        = Idrisi spc83de1.ref
+26958 	NAD83_Florida_East			= Idrisi spc83fl1.ref
+26959 	NAD83_Florida_West			= Idrisi spc83fl2.ref
+26960 	NAD83_Florida_North			= Idrisi spc83fl3.ref
+26961   NAD83_Hawaii_zone_1                     = Idrisi spc83hi1.ref	
+26962 	NAD83_Hawaii_zone_2			= Idrisi spc83hi2.ref		
+26963 	NAD83_Hawaii_zone_3			= Idrisi spc83hi3.ref		
+26964 	NAD83_Hawaii_zone_4			= Idrisi spc83hi4.ref
+26965 	NAD83_Hawaii_zone_5			= Idrisi spc83hi5.ref
+26966 	NAD83_Georgia_East			= Idrisi spc83ga1.ref	
+26967 	NAD83_Georgia_West			= Idrisi spc83ga2.ref
+26968 	NAD83_Idaho_East			= Idrisi spc83id1.ref		
+26969 	NAD83_Idaho_Central			= Idrisi spc83id2.ref
+26970 	NAD83_Idaho_West			= Idrisi spc83id3.ref
+26971 	NAD83_Illinois_East			= Idrisi spc83il1.ref	
+26972 	NAD83_Illinois_West			= Idrisi spc83il2.ref
+26973 	NAD83_Indiana_East			= Idrisi spc83in1.ref
+26974 	NAD83_Indiana_West			= Idrisi spc83in2.ref
+26975 	NAD83_Iowa_North			= Idrisi spc83ia1.ref
+26976 	NAD83_Iowa_South			= Idrisi spc83ia2.ref
+26977 	NAD83_Kansas_North			= Idrisi spc83ks1.ref
+26978 	NAD83_Kansas_South			= Idrisi spc83ks2.ref
+26979 	NAD83_Kentucky_North			= Idrisi spc83ky1.ref	
+26980 	NAD83_Kentucky_South			= Idrisi spc83ky2.ref
+26981 	NAD83_Louisiana_North			= Idrisi spc83la1.ref	
+26982 	NAD83_Louisiana_South			= Idrisi spc83la2.ref
+26983 	NAD83_Maine_East			= Idrisi spc83me1.ref
+26984 	NAD83_Maine_West			= Idrisi spc83me2.ref
+26985 	NAD83_Maryland				= Idrisi spc83md1.ref	
+26986 	NAD83_Massachusetts			= Idrisi spc83ma1.ref	
+26987 	NAD83_Massachusetts_Is			= Idrisi spc83ma2.ref
+26988 	NAD83_Michigan_North			= Idrisi spc83mi1.ref
+26989 	NAD83_Michigan_Central			= Idrisi spc83mi2.ref		
+26990 	NAD83_Michigan_South			= Idrisi spc83mi3.ref
+26991 	NAD83_Minnesota_North			= Idrisi spc83mn1.ref
+26992 	NAD83_Minnesota_Cent			= Idrisi spc83mn2.ref
+26993 	NAD83_Minnesota_South			= Idrisi spc83mn3.ref
+26994 	NAD83_Mississippi_East			= Idrisi spc83ms1.ref
+26995 	NAD83_Mississippi_West			= Idrisi spc83ms2.ref
+26996 	NAD83_Missouri_East			= Idrisi spc83mo1.ref
+26997 	NAD83_Missouri_Central			= Idrisi spc83mo2.ref
+26998 	NAD83_Missouri_West			= Idrisi spc83mo3.ref
+27038 	Nahrwan_1967_UTM_38N			
+27039 	Nahrwan_1967_UTM_39N	
+27040 	Nahrwan_1967_UTM_40N	
+27120 	Naparima_UTM_20N	
+27200 	GD49_NZ_Map_Grid	
+27291 	GD49_North_Island_Grid	
+27292 	GD49_South_Island_Grid	
+27429 	Datum_73_UTM_zone_29N	
+27500 	ATF_Nord_de_Guerre	
+27581 	NTF_France_I	
+27582 	NTF_France_II	
+27583 	NTF_France_III	
+27591 	NTF_Nord_France	
+27592 	NTF_Centre_France	
+27593 	NTF_Sud_France	
+27700 	British_National_Grid	
+28232 	Point_Noire_UTM_32S	
+28348 	GDA94_MGA_zone_48	
+28349 	GDA94_MGA_zone_49	
+28350 	GDA94_MGA_zone_50	
+28351 	GDA94_MGA_zone_51	
+28352 	GDA94_MGA_zone_52	
+28353 	GDA94_MGA_zone_53	
+28354 	GDA94_MGA_zone_54	
+28355 	GDA94_MGA_zone_55	
+28356 	GDA94_MGA_zone_56	
+28357 	GDA94_MGA_zone_57	
+28358 	GDA94_MGA_zone_58	
+28404 	Pulkovo_Gauss_zone_4			= Idrisi gk04_p42.ref
+28405 	Pulkovo_Gauss_zone_5			= Idrisi gk05_p42.ref	
+28406 	Pulkovo_Gauss_zone_6			= Idrisi gk06_p42.ref
+28407 	Pulkovo_Gauss_zone_7			= Idrisi gk07_p42.ref
+28408 	Pulkovo_Gauss_zone_8			= Idrisi gk08_p42.ref
+28409 	Pulkovo_Gauss_zone_9			= Idrisi gk09_p42.ref
+28410 	Pulkovo_Gauss_zone_10			= Idrisi gk10_p42.ref
+28411 	Pulkovo_Gauss_zone_11			= Idrisi gk11_p42.ref
+28412 	Pulkovo_Gauss_zone_12			= Idrisi gk12_p42.ref
+28413 	Pulkovo_Gauss_zone_13			= Idrisi gk13_p42.ref
+28414 	Pulkovo_Gauss_zone_14			= Idrisi gk14_p42.ref
+28415 	Pulkovo_Gauss_zone_15			= Idrisi gk15_p42.ref
+28416 	Pulkovo_Gauss_zone_16			= Idrisi gk16_p42.ref
+28417 	Pulkovo_Gauss_zone_17			= Idrisi gk17_p42.ref
+28418 	Pulkovo_Gauss_zone_18			= Idrisi gk18_p42.ref
+28419 	Pulkovo_Gauss_zone_19			= Idrisi gk19_p42.ref
+28420 	Pulkovo_Gauss_zone_20			= Idrisi gk20_p42.ref
+28421 	Pulkovo_Gauss_zone_21			= Idrisi gk21_p42.ref
+28422 	Pulkovo_Gauss_zone_22			= Idrisi gk22_p42.ref
+28423 	Pulkovo_Gauss_zone_23			= Idrisi gk23_p42.ref
+28424 	Pulkovo_Gauss_zone_24			= Idrisi gk24_p42.ref
+28425 	Pulkovo_Gauss_zone_25			= Idrisi gk25_p42.ref
+28426 	Pulkovo_Gauss_zone_26			= Idrisi gk26_p42.ref
+28427 	Pulkovo_Gauss_zone_27			= Idrisi gk27_p42.ref
+28428 	Pulkovo_Gauss_zone_28			= Idrisi gk28_p42.ref
+28429 	Pulkovo_Gauss_zone_29			= Idrisi gk29_p42.ref
+28430 	Pulkovo_Gauss_zone_30			= Idrisi gk30_p42.ref
+28431 	Pulkovo_Gauss_zone_31			= Idrisi gk31_p42.ref
+28432 	Pulkovo_Gauss_zone_32			= Idrisi gk32_p42.ref
+28464 	Pulkovo_Gauss_4N	
+28465 	Pulkovo_Gauss_5N	
+28466 	Pulkovo_Gauss_6N	
+28467 	Pulkovo_Gauss_7N	
+28468 	Pulkovo_Gauss_8N	
+28469 	Pulkovo_Gauss_9N	
+28470 	Pulkovo_Gauss_10N	
+28471 	Pulkovo_Gauss_11N	
+28472 	Pulkovo_Gauss_12N	
+28473 	Pulkovo_Gauss_13N	
+28474 	Pulkovo_Gauss_14N	
+28475 	Pulkovo_Gauss_15N	
+28476 	Pulkovo_Gauss_16N	
+28477 	Pulkovo_Gauss_17N	
+28478 	Pulkovo_Gauss_18N	
+28479 	Pulkovo_Gauss_19N	
+28480 	Pulkovo_Gauss_20N	
+28481 	Pulkovo_Gauss_21N	
+28482 	Pulkovo_Gauss_22N	
+28483 	Pulkovo_Gauss_23N	
+28484 	Pulkovo_Gauss_24N	
+28485 	Pulkovo_Gauss_25N	
+28486 	Pulkovo_Gauss_26N	
+28487 	Pulkovo_Gauss_27N	
+28488 	Pulkovo_Gauss_28N	
+28489 	Pulkovo_Gauss_29N	
+28490 	Pulkovo_Gauss_30N	
+28491 	Pulkovo_Gauss_31N	
+28492 	Pulkovo_Gauss_32N	
+28600 	Qatar_National_Grid	
+28991 	RD_Netherlands_Old	
+28992 	RD_Netherlands_New	
+29118 	SAD69_UTM_zone_18N	
+29119 	SAD69_UTM_zone_19N	
+29120 	SAD69_UTM_zone_20N	
+29121 	SAD69_UTM_zone_21N	
+29122 	SAD69_UTM_zone_22N	
+29177 	SAD69_UTM_zone_17S	
+29178 	SAD69_UTM_zone_18S	
+29179 	SAD69_UTM_zone_19S	
+29180 	SAD69_UTM_zone_20S	
+29181 	SAD69_UTM_zone_21S	
+29182 	SAD69_UTM_zone_22S	
+29183 	SAD69_UTM_zone_23S	
+29184 	SAD69_UTM_zone_24S	
+29185 	SAD69_UTM_zone_25S	
+29220 	Sapper_Hill_UTM_20S	
+29221 	Sapper_Hill_UTM_21S	
+29333 	Schwarzeck_UTM_33S	
+29635 	Sudan_UTM_zone_35N	
+29636 	Sudan_UTM_zone_36N	
+29700 	Tananarive_Laborde	
+29738 	Tananarive_UTM_38S	
+29739 	Tananarive_UTM_39S	
+29800 	Timbalai_1948_Borneo	
+29849 	Timbalai_1948_UTM_49N	
+29850 	Timbalai_1948_UTM_50N	
+29900 	TM65_Irish_Nat_Grid	
+30200 	Trinidad_1903_Trinidad	
+30339 	TC_1948_UTM_zone_39N	
+30340 	TC_1948_UTM_zone_40N	
+30491 	Voirol_N_Algerie_ancien	
+30492 	Voirol_S_Algerie_ancien	
+30591 	Voirol_Unifie_N_Algerie	
+30592 	Voirol_Unifie_S_Algerie	
+30600 	Bern_1938_Swiss_New	
+30729 	Nord_Sahara_UTM_29N	
+30730 	Nord_Sahara_UTM_30N	
+30731 	Nord_Sahara_UTM_31N	
+30732 	Nord_Sahara_UTM_32N	
+31028 	Yoff_UTM_zone_28N	
+31121 	Zanderij_UTM_zone_21N	
+31291 	MGI_Austria_West	
+31292 	MGI_Austria_Central	
+31293 	MGI_Austria_East	
+31300 	Belge_Lambert_72	
+31491 	DHDN_Germany_zone_1	
+31492 	DHDN_Germany_zone_2	
+31493 	DHDN_Germany_zone_3	
+31494 	DHDN_Germany_zone_4	
+31495 	DHDN_Germany_zone_5	
+32001 	NAD27_Montana_North			= Idrisi spc27mt1.ref	
+32002 	NAD27_Montana_Central			= Idrisi spc27mt2.ref
+32003 	NAD27_Montana_South			= Idrisi spc27mt3.ref		
+32005 	NAD27_Nebraska_North			= Idrisi spc27ne1.ref	
+32006 	NAD27_Nebraska_South			= Idrisi spc27ne2.ref
+32007 	NAD27_Nevada_East			= Idrisi spc27nv1.ref	
+32008 	NAD27_Nevada_Central			= Idrisi spc27nv2.ref
+32009 	NAD27_Nevada_West			= Idrisi spc27nv3.ref
+32010 	NAD27_New_Hampshire			= Idrisi spc27nh1.ref
+32011 	NAD27_New_Jersey			= Idrisi spc27nj1.ref
+32012 	NAD27_New_Mexico_East			= Idrisi spc27nm1.ref
+32013 	NAD27_New_Mexico_Cent			= Idrisi spc27nm2.ref
+32014 	NAD27_New_Mexico_West			= Idrisi spc27nm3.ref
+32015 	NAD27_New_York_East			= Idrisi spc27ny1.ref
+32016 	NAD27_New_York_Central			= Idrisi spc27ny2.ref
+32017 	NAD27_New_York_West			= Idrisi spc27ny3.ref
+32018 	NAD27_New_York_Long_Is			= Idrisi spc27ny4.ref
+32019 	NAD27_North_Carolina			= Idrisi spc27nc1.ref	
+32020 	NAD27_North_Dakota_N			= Idrisi spc27nd1.ref
+32021 	NAD27_North_Dakota_S			= Idrisi spc27nd2.ref
+32022 	NAD27_Ohio_North			= Idrisi spc27oh1.ref
+32023 	NAD27_Ohio_South			= Idrisi spc27oh2.ref
+32024 	NAD27_Oklahoma_North			= Idrisi spc27ok1.ref
+32025 	NAD27_Oklahoma_South			= Idrisi spc27ok2.ref
+32026 	NAD27_Oregon_North			= Idrisi spc27or1.ref
+32027 	NAD27_Oregon_South			= Idrisi spc27or2.ref
+32028 	NAD27_Pennsylvania_N			= Idrisi spc27pa1.ref		
+32029 	NAD27_Pennsylvania_S			= Idrisi spc27pa2.ref
+32030 	NAD27_Rhode_Island			= Idrisi spc27ri1.ref	
+32031 	NAD27_South_Carolina_N			= Idrisi spc27sc1.ref
+32033 	NAD27_South_Carolina_S			= Idrisi spc27sc2.ref
+32034 	NAD27_South_Dakota_N			= Idrisi spc27sd1.ref
+32035 	NAD27_South_Dakota_S			= Idrisi spc27sd2.ref
+32036 	NAD27_Tennessee				= Idrisi spc27tn1.ref
+32037 	NAD27_Texas_North			= Idrisi spc27tx1.ref		
+32038 	NAD27_Texas_North_Cen			= Idrisi spc27tx2.ref
+32039 	NAD27_Texas_Central			= Idrisi spc27tx3.ref
+32040 	NAD27_Texas_South_Cen			= Idrisi spc27tx4.ref
+32041 	NAD27_Texas_South			= Idrisi spc27tx5.ref
+32042 	NAD27_Utah_North			= Idrisi spc27ut1.ref
+32043 	NAD27_Utah_Central			= Idrisi spc27ut2.ref
+32044 	NAD27_Utah_South			= Idrisi spc27ut3.ref
+32045 	NAD27_Vermont				= Idrisi spc27vt1.ref
+32046 	NAD27_Virginia_North			= Idrisi spc27va1.ref
+32047 	NAD27_Virginia_South			= Idrisi spc27va2.ref
+32048 	NAD27_Washington_North			= Idrisi spc27wa1.ref
+32049 	NAD27_Washington_South			= Idrisi spc27wa2.ref
+32050 	NAD27_West_Virginia_N			= Idrisi spc27wv1.ref
+32051 	NAD27_West_Virginia_S			= Idrisi spc27wv2.ref
+32052 	NAD27_Wisconsin_North			= Idrisi spc27wi1.ref
+32053 	NAD27_Wisconsin_Cen			= Idrisi spc27wi2.ref
+32054 	NAD27_Wisconsin_South			= Idrisi spc27wi3.ref
+32055 	NAD27_Wyoming_East			= Idrisi spc27wy1.ref
+32056 	NAD27_Wyoming_E_Cen			= Idrisi spc27wy2.ref
+32057 	NAD27_Wyoming_W_Cen			= Idrisi spc27wy3.ref
+32058 	NAD27_Wyoming_West			= Idrisi spc27wy4.ref
+32059 	NAD27_Puerto_Rico	
+32060 	NAD27_St_Croix	
+32100 	NAD83_Montana				= Idrisi spc83mt1.ref			
+32104 	NAD83_Nebraska				= Idrisi spc83ne1.ref
+32107 	NAD83_Nevada_East			= Idrisi spc83nv1.ref			
+32108 	NAD83_Nevada_Central			= Idrisi spc83nv2.ref
+32109 	NAD83_Nevada_West			= Idrisi spc83nv3.ref
+32110 	NAD83_New_Hampshire			= Idrisi spc83nh1.ref	
+32111 	NAD83_New_Jersey			= Idrisi spc83nj1.ref
+32112 	NAD83_New_Mexico_East			= Idrisi spc83nm1.ref
+32113 	NAD83_New_Mexico_Cent			= Idrisi spc83nm2.ref
+32114 	NAD83_New_Mexico_West			= Idrisi spc83nm3.ref
+32115 	NAD83_New_York_East			= Idrisi spc83ny1.ref
+32116 	NAD83_New_York_Central			= Idrisi spc83ny2.ref
+32117 	NAD83_New_York_West			= Idrisi spc83ny3.ref
+32118 	NAD83_New_York_Long_Is			= Idrisi spc83ny4.ref
+32119 	NAD83_North_Carolina			= Idrisi spc83nc1.ref
+32120 	NAD83_North_Dakota_N			= Idrisi spc83nd1.ref
+32121 	NAD83_North_Dakota_S			= Idrisi spc83nd2.ref
+32122 	NAD83_Ohio_North			= Idrisi spc83oh1.ref		
+32123 	NAD83_Ohio_South			= Idrisi spc83oh2.ref
+32124 	NAD83_Oklahoma_North			= Idrisi spc83ok1.ref
+32125 	NAD83_Oklahoma_South			= Idrisi spc83ok2.ref
+32126 	NAD83_Oregon_North			= Idrisi spc83or1.ref
+32127 	NAD83_Oregon_South			= Idrisi spc83or2.ref
+32128 	NAD83_Pennsylvania_N			= Idrisi spc83pa1.ref
+32129 	NAD83_Pennsylvania_S			= Idrisi spc83pa2.ref
+32130 	NAD83_Rhode_Island			= Idrisi spc83ri1.ref
+32133 	NAD83_South_Carolina			= Idrisi spc83sc1.ref
+32134 	NAD83_South_Dakota_N			
+32135 	NAD83_South_Dakota_S	
+32136 	NAD83_Tennessee				= Idrisi spc83tn1.ref			
+32137 	NAD83_Texas_North			= Idrisi spc83tx1.ref
+32138 	NAD83_Texas_North_Cen			= Idrisi spc83tx2.ref
+32139 	NAD83_Texas_Central			= Idrisi spc83tx3.ref
+32140 	NAD83_Texas_South_Cen			= Idrisi spc83tx4.ref	
+32141 	NAD83_Texas_South			= Idrisi spc83tx5.ref
+32142 	NAD83_Utah_North			= Idrisi spc83ut1.ref			
+32143 	NAD83_Utah_Central			= Idrisi spc83ut2.ref
+32144 	NAD83_Utah_South			= Idrisi spc83ut3.ref		
+32145 	NAD83_Vermont				= Idrisi spc83vt1.ref	
+32146 	NAD83_Virginia_North			= Idrisi spc83va1.ref
+32147 	NAD83_Virginia_South			= Idrisi spc83va2.ref
+32148 	NAD83_Washington_North			= Idrisi spc83wa1.ref
+32149 	NAD83_Washington_South			= Idrisi spc83wa2.ref
+32150 	NAD83_West_Virginia_N			= Idrisi spc83wv1.ref
+32151 	NAD83_West_Virginia_S			= Idrisi spc83wv2.ref
+32152 	NAD83_Wisconsin_North			= Idrisi spc83wi1.ref	
+32153 	NAD83_Wisconsin_Cen			= Idrisi spc83wi2.ref
+32154 	NAD83_Wisconsin_South			= Idrisi spc83wi3.ref
+32155 	NAD83_Wyoming_East			= Idrisi spc83wy1.ref
+32156 	NAD83_Wyoming_E_Cen			= Idrisi spc83wy2.ref
+32157 	NAD83_Wyoming_W_Cen			= Idrisi spc83wy3.ref
+32158 	NAD83_Wyoming_West			= Idrisi spc83wy4.ref
+32161 	NAD83_Puerto_Rico_Virgin_Is		
+32201 	WGS72_UTM_zone_1N	
+32202 	WGS72_UTM_zone_2N	
+32203 	WGS72_UTM_zone_3N	
+32204 	WGS72_UTM_zone_4N	
+32205 	WGS72_UTM_zone_5N	
+32206 	WGS72_UTM_zone_6N	
+32207 	WGS72_UTM_zone_7N	
+32208 	WGS72_UTM_zone_8N	
+32209 	WGS72_UTM_zone_9N	
+32210 	WGS72_UTM_zone_10N	
+32211 	WGS72_UTM_zone_11N	
+32212 	WGS72_UTM_zone_12N	
+32213 	WGS72_UTM_zone_13N	
+32214 	WGS72_UTM_zone_14N	
+32215 	WGS72_UTM_zone_15N	
+32216 	WGS72_UTM_zone_16N	
+32217 	WGS72_UTM_zone_17N	
+32218 	WGS72_UTM_zone_18N	
+32219 	WGS72_UTM_zone_19N	
+32220 	WGS72_UTM_zone_20N	
+32221 	WGS72_UTM_zone_21N	
+32222 	WGS72_UTM_zone_22N	
+32223 	WGS72_UTM_zone_23N	
+32224 	WGS72_UTM_zone_24N	
+32225 	WGS72_UTM_zone_25N	
+32226 	WGS72_UTM_zone_26N	
+32227 	WGS72_UTM_zone_27N	
+32228 	WGS72_UTM_zone_28N	
+32229 	WGS72_UTM_zone_29N	
+32230 	WGS72_UTM_zone_30N	
+32231 	WGS72_UTM_zone_31N	
+32232 	WGS72_UTM_zone_32N	
+32233 	WGS72_UTM_zone_33N	
+32234 	WGS72_UTM_zone_34N	
+32235 	WGS72_UTM_zone_35N	
+32236 	WGS72_UTM_zone_36N	
+32237 	WGS72_UTM_zone_37N	
+32238 	WGS72_UTM_zone_38N	
+32239 	WGS72_UTM_zone_39N	
+32240 	WGS72_UTM_zone_40N	
+32241 	WGS72_UTM_zone_41N	
+32242 	WGS72_UTM_zone_42N	
+32243 	WGS72_UTM_zone_43N	
+32244 	WGS72_UTM_zone_44N	
+32245 	WGS72_UTM_zone_45N	
+32246 	WGS72_UTM_zone_46N	
+32247 	WGS72_UTM_zone_47N	
+32248 	WGS72_UTM_zone_48N	
+32249 	WGS72_UTM_zone_49N	
+32250 	WGS72_UTM_zone_50N	
+32251 	WGS72_UTM_zone_51N	
+32252 	WGS72_UTM_zone_52N	
+32253 	WGS72_UTM_zone_53N	
+32254 	WGS72_UTM_zone_54N	
+32255 	WGS72_UTM_zone_55N	
+32256 	WGS72_UTM_zone_56N	
+32257 	WGS72_UTM_zone_57N	
+32258 	WGS72_UTM_zone_58N	
+32259 	WGS72_UTM_zone_59N	
+32260 	WGS72_UTM_zone_60N	
+32301 	WGS72_UTM_zone_1S	
+32302 	WGS72_UTM_zone_2S	
+32303 	WGS72_UTM_zone_3S	
+32304 	WGS72_UTM_zone_4S	
+32305 	WGS72_UTM_zone_5S	
+32306 	WGS72_UTM_zone_6S	
+32307 	WGS72_UTM_zone_7S	
+32308 	WGS72_UTM_zone_8S	
+32309 	WGS72_UTM_zone_9S	
+32310 	WGS72_UTM_zone_10S	
+32311 	WGS72_UTM_zone_11S	
+32312 	WGS72_UTM_zone_12S	
+32313 	WGS72_UTM_zone_13S	
+32314 	WGS72_UTM_zone_14S	
+32315 	WGS72_UTM_zone_15S	
+32316 	WGS72_UTM_zone_16S	
+32317 	WGS72_UTM_zone_17S	
+32318 	WGS72_UTM_zone_18S	
+32319 	WGS72_UTM_zone_19S	
+32320 	WGS72_UTM_zone_20S	
+32321 	WGS72_UTM_zone_21S	
+32322 	WGS72_UTM_zone_22S	
+32323 	WGS72_UTM_zone_23S	
+32324 	WGS72_UTM_zone_24S	
+32325 	WGS72_UTM_zone_25S	
+32326 	WGS72_UTM_zone_26S	
+32327 	WGS72_UTM_zone_27S	
+32328 	WGS72_UTM_zone_28S	
+32329 	WGS72_UTM_zone_29S	
+32330 	WGS72_UTM_zone_30S	
+32331 	WGS72_UTM_zone_31S	
+32332 	WGS72_UTM_zone_32S	
+32333 	WGS72_UTM_zone_33S	
+32334 	WGS72_UTM_zone_34S	
+32335 	WGS72_UTM_zone_35S	
+32336 	WGS72_UTM_zone_36S	
+32337 	WGS72_UTM_zone_37S	
+32338 	WGS72_UTM_zone_38S	
+32339 	WGS72_UTM_zone_39S	
+32340 	WGS72_UTM_zone_40S	
+32341 	WGS72_UTM_zone_41S	
+32342 	WGS72_UTM_zone_42S	
+32343 	WGS72_UTM_zone_43S	
+32344 	WGS72_UTM_zone_44S	
+32345 	WGS72_UTM_zone_45S	
+32346 	WGS72_UTM_zone_46S	
+32347 	WGS72_UTM_zone_47S	
+32348 	WGS72_UTM_zone_48S	
+32349 	WGS72_UTM_zone_49S	
+32350 	WGS72_UTM_zone_50S	
+32351 	WGS72_UTM_zone_51S	
+32352 	WGS72_UTM_zone_52S	
+32353 	WGS72_UTM_zone_53S	
+32354 	WGS72_UTM_zone_54S	
+32355 	WGS72_UTM_zone_55S	
+32356 	WGS72_UTM_zone_56S	
+32357 	WGS72_UTM_zone_57S	
+32358 	WGS72_UTM_zone_58S	
+32359 	WGS72_UTM_zone_59S	
+32360 	WGS72_UTM_zone_60S	
+32401 	WGS72BE_UTM_zone_1N	
+32402 	WGS72BE_UTM_zone_2N	
+32403 	WGS72BE_UTM_zone_3N	
+32404 	WGS72BE_UTM_zone_4N	
+32405 	WGS72BE_UTM_zone_5N	
+32406 	WGS72BE_UTM_zone_6N	
+32407 	WGS72BE_UTM_zone_7N	
+32408 	WGS72BE_UTM_zone_8N	
+32409 	WGS72BE_UTM_zone_9N	
+32410 	WGS72BE_UTM_zone_10N	
+32411 	WGS72BE_UTM_zone_11N	
+32412 	WGS72BE_UTM_zone_12N	
+32413 	WGS72BE_UTM_zone_13N	
+32414 	WGS72BE_UTM_zone_14N	
+32415 	WGS72BE_UTM_zone_15N	
+32416 	WGS72BE_UTM_zone_16N	
+32417 	WGS72BE_UTM_zone_17N	
+32418 	WGS72BE_UTM_zone_18N	
+32419 	WGS72BE_UTM_zone_19N	
+32420 	WGS72BE_UTM_zone_20N	
+32421 	WGS72BE_UTM_zone_21N	
+32422 	WGS72BE_UTM_zone_22N	
+32423 	WGS72BE_UTM_zone_23N	
+32424 	WGS72BE_UTM_zone_24N	
+32425 	WGS72BE_UTM_zone_25N	
+32426 	WGS72BE_UTM_zone_26N	
+32427 	WGS72BE_UTM_zone_27N	
+32428 	WGS72BE_UTM_zone_28N	
+32429 	WGS72BE_UTM_zone_29N	
+32430 	WGS72BE_UTM_zone_30N	
+32431 	WGS72BE_UTM_zone_31N	
+32432 	WGS72BE_UTM_zone_32N	
+32433 	WGS72BE_UTM_zone_33N	
+32434 	WGS72BE_UTM_zone_34N	
+32435 	WGS72BE_UTM_zone_35N	
+32436 	WGS72BE_UTM_zone_36N	
+32437 	WGS72BE_UTM_zone_37N	
+32438 	WGS72BE_UTM_zone_38N	
+32439 	WGS72BE_UTM_zone_39N	
+32440 	WGS72BE_UTM_zone_40N	
+32441 	WGS72BE_UTM_zone_41N	
+32442 	WGS72BE_UTM_zone_42N	
+32443 	WGS72BE_UTM_zone_43N	
+32444 	WGS72BE_UTM_zone_44N	
+32445 	WGS72BE_UTM_zone_45N	
+32446 	WGS72BE_UTM_zone_46N	
+32447 	WGS72BE_UTM_zone_47N	
+32448 	WGS72BE_UTM_zone_48N	
+32449 	WGS72BE_UTM_zone_49N	
+32450 	WGS72BE_UTM_zone_50N	
+32451 	WGS72BE_UTM_zone_51N	
+32452 	WGS72BE_UTM_zone_52N	
+32453 	WGS72BE_UTM_zone_53N	
+32454 	WGS72BE_UTM_zone_54N	
+32455 	WGS72BE_UTM_zone_55N	
+32456 	WGS72BE_UTM_zone_56N	
+32457 	WGS72BE_UTM_zone_57N	
+32458 	WGS72BE_UTM_zone_58N	
+32459 	WGS72BE_UTM_zone_59N	
+32460 	WGS72BE_UTM_zone_60N	
+32501 	WGS72BE_UTM_zone_1S	
+32502 	WGS72BE_UTM_zone_2S	
+32503 	WGS72BE_UTM_zone_3S	
+32504 	WGS72BE_UTM_zone_4S	
+32505 	WGS72BE_UTM_zone_5S	
+32506 	WGS72BE_UTM_zone_6S	
+32507 	WGS72BE_UTM_zone_7S	
+32508 	WGS72BE_UTM_zone_8S	
+32509 	WGS72BE_UTM_zone_9S	
+32510 	WGS72BE_UTM_zone_10S	
+32511 	WGS72BE_UTM_zone_11S	
+32512 	WGS72BE_UTM_zone_12S	
+32513 	WGS72BE_UTM_zone_13S	
+32514 	WGS72BE_UTM_zone_14S	
+32515 	WGS72BE_UTM_zone_15S	
+32516 	WGS72BE_UTM_zone_16S	
+32517 	WGS72BE_UTM_zone_17S	
+32518 	WGS72BE_UTM_zone_18S	
+32519 	WGS72BE_UTM_zone_19S	
+32520 	WGS72BE_UTM_zone_20S	
+32521 	WGS72BE_UTM_zone_21S	
+32522 	WGS72BE_UTM_zone_22S	
+32523 	WGS72BE_UTM_zone_23S	
+32524 	WGS72BE_UTM_zone_24S	
+32525 	WGS72BE_UTM_zone_25S	
+32526 	WGS72BE_UTM_zone_26S	
+32527 	WGS72BE_UTM_zone_27S	
+32528 	WGS72BE_UTM_zone_28S	
+32529 	WGS72BE_UTM_zone_29S	
+32530 	WGS72BE_UTM_zone_30S	
+32531 	WGS72BE_UTM_zone_31S	
+32532 	WGS72BE_UTM_zone_32S	
+32533 	WGS72BE_UTM_zone_33S	
+32534 	WGS72BE_UTM_zone_34S	
+32535 	WGS72BE_UTM_zone_35S	
+32536 	WGS72BE_UTM_zone_36S	
+32537 	WGS72BE_UTM_zone_37S	
+32538 	WGS72BE_UTM_zone_38S	
+32539 	WGS72BE_UTM_zone_39S	
+32540 	WGS72BE_UTM_zone_40S	
+32541 	WGS72BE_UTM_zone_41S	
+32542 	WGS72BE_UTM_zone_42S	
+32543 	WGS72BE_UTM_zone_43S	
+32544 	WGS72BE_UTM_zone_44S	
+32545 	WGS72BE_UTM_zone_45S	
+32546 	WGS72BE_UTM_zone_46S	
+32547 	WGS72BE_UTM_zone_47S	
+32548 	WGS72BE_UTM_zone_48S	
+32549 	WGS72BE_UTM_zone_49S	
+32550 	WGS72BE_UTM_zone_50S	
+32551 	WGS72BE_UTM_zone_51S	
+32552 	WGS72BE_UTM_zone_52S	
+32553 	WGS72BE_UTM_zone_53S	
+32554 	WGS72BE_UTM_zone_54S	
+32555 	WGS72BE_UTM_zone_55S	
+32556 	WGS72BE_UTM_zone_56S	
+32557 	WGS72BE_UTM_zone_57S	
+32558 	WGS72BE_UTM_zone_58S	
+32559 	WGS72BE_UTM_zone_59S	
+32560 	WGS72BE_UTM_zone_60S	
+32601   WGS84_UTM_zone_1N                       = Idrisi utm-1n.ref
+32602   WGS84_UTM_zone_2N                       = Idrisi utm-2n.ref
+32603   WGS84_UTM_zone_3N                       = Idrisi utm-3n.ref
+32604   WGS84_UTM_zone_4N                       = Idrisi utm-4n.ref
+32605   WGS84_UTM_zone_5N                       = Idrisi utm-5n.ref
+32606   WGS84_UTM_zone_6N                       = Idrisi utm-6n.ref
+32607   WGS84_UTM_zone_7N                       = Idrisi utm-7n.ref
+32608   WGS84_UTM_zone_8N                       = Idrisi utm-8n.ref
+32609   WGS84_UTM_zone_9N                       = Idrisi utm-9n.ref
+32610   WGS84_UTM_zone_10N                      = Idrisi utm-10n.ref
+32611   WGS84_UTM_zone_11N                      = Idrisi utm-11n.ref
+32612   WGS84_UTM_zone_12N                      = Idrisi utm-12n.ref
+32613   WGS84_UTM_zone_13N                      = Idrisi utm-13n.ref
+32614   WGS84_UTM_zone_14N                      = Idrisi utm-14n.ref 
+32615   WGS84_UTM_zone_15N                      = Idrisi utm-15n.ref 
+32616   WGS84_UTM_zone_16N                      = Idrisi utm-16n.ref 
+32617   WGS84_UTM_zone_17N                      = Idrisi utm-17n.ref 
+32618   WGS84_UTM_zone_18N                      = Idrisi utm-18n.ref 
+32619   WGS84_UTM_zone_19N                      = Idrisi utm-19n.ref 
+32620   WGS84_UTM_zone_20N                      = Idrisi utm-20n.ref 
+32621   WGS84_UTM_zone_21N                      = Idrisi utm-21n.ref 
+32622   WGS84_UTM_zone_22N                      = Idrisi utm-22n.ref 
+32623   WGS84_UTM_zone_23N                      = Idrisi utm-23n.ref 
+32624   WGS84_UTM_zone_24N                      = Idrisi utm-24n.ref 
+32625   WGS84_UTM_zone_25N                      = Idrisi utm-25n.ref 
+32626   WGS84_UTM_zone_26N                      = Idrisi utm-26n.ref 
+32627   WGS84_UTM_zone_27N                      = Idrisi utm-27n.ref 
+32628   WGS84_UTM_zone_28N                      = Idrisi utm-28n.ref 
+32629   WGS84_UTM_zone_29N                      = Idrisi utm-29n.ref 
+32630   WGS84_UTM_zone_30N                      = Idrisi utm-30n.ref 
+32631   WGS84_UTM_zone_31N                      = Idrisi utm-31n.ref 
+32632   WGS84_UTM_zone_32N                      = Idrisi utm-32n.ref 
+32633   WGS84_UTM_zone_33N                      = Idrisi utm-33n.ref 
+32634   WGS84_UTM_zone_34N                      = Idrisi utm-34n.ref 
+32635   WGS84_UTM_zone_35N                      = Idrisi utm-35n.ref 
+32636   WGS84_UTM_zone_36N                      = Idrisi utm-36n.ref 
+32637   WGS84_UTM_zone_37N                      = Idrisi utm-37n.ref 
+32638   WGS84_UTM_zone_38N                      = Idrisi utm-38n.ref 
+32639   WGS84_UTM_zone_39N                      = Idrisi utm-39n.ref 
+32640   WGS84_UTM_zone_40N                      = Idrisi utm-40n.ref 
+32641   WGS84_UTM_zone_41N                      = Idrisi utm-41n.ref 
+32642   WGS84_UTM_zone_42N                      = Idrisi utm-42n.ref 
+32643   WGS84_UTM_zone_43N                      = Idrisi utm-43n.ref 
+32644   WGS84_UTM_zone_44N                      = Idrisi utm-44n.ref 
+32645   WGS84_UTM_zone_45N                      = Idrisi utm-45n.ref 
+32646   WGS84_UTM_zone_46N                      = Idrisi utm-46n.ref 
+32647   WGS84_UTM_zone_47N                      = Idrisi utm-47n.ref 
+32648   WGS84_UTM_zone_48N                      = Idrisi utm-48n.ref 
+32649   WGS84_UTM_zone_49N                      = Idrisi utm-49n.ref 
+32650   WGS84_UTM_zone_50N                      = Idrisi utm-50n.ref 
+32651   WGS84_UTM_zone_51N                      = Idrisi utm-51n.ref 
+32652   WGS84_UTM_zone_52N                      = Idrisi utm-52n.ref 
+32653   WGS84_UTM_zone_53N                      = Idrisi utm-53n.ref 
+32654   WGS84_UTM_zone_54N                      = Idrisi utm-54n.ref 
+32655   WGS84_UTM_zone_55N                      = Idrisi utm-55n.ref 
+32656   WGS84_UTM_zone_56N                      = Idrisi utm-56n.ref 
+32657   WGS84_UTM_zone_57N                      = Idrisi utm-57n.ref 
+32658   WGS84_UTM_zone_58N                      = Idrisi utm-58n.ref 
+32659   WGS84_UTM_zone_59N                      = Idrisi utm-59n.ref 
+32660   WGS84_UTM_zone_60N                      = Idrisi utm-60n.ref 
+32701   WGS84_UTM_zone_1S                       = Idrisi utm-1s.ref 
+32702   WGS84_UTM_zone_2S                       = Idrisi utm-2s.ref  
+32703   WGS84_UTM_zone_3S                       = Idrisi utm-3s.ref  
+32704   WGS84_UTM_zone_4S                       = Idrisi utm-4s.ref  
+32705   WGS84_UTM_zone_5S                       = Idrisi utm-5s.ref  
+32706   WGS84_UTM_zone_6S                       = Idrisi utm-6s.ref  
+32707   WGS84_UTM_zone_7S                       = Idrisi utm-7s.ref  
+32708   WGS84_UTM_zone_8S                       = Idrisi utm-8s.ref  
+32709   WGS84_UTM_zone_9S                       = Idrisi utm-9s.ref  
+32710   WGS84_UTM_zone_10S                      = Idrisi utm-10s.ref  
+32711   WGS84_UTM_zone_11S                      = Idrisi utm-11s.ref 
+32712   WGS84_UTM_zone_12S                      = Idrisi utm-12s.ref 
+32713   WGS84_UTM_zone_13S                      = Idrisi utm-13s.ref 
+32714   WGS84_UTM_zone_14S                      = Idrisi utm-14s.ref 
+32715   WGS84_UTM_zone_15S                      = Idrisi utm-15s.ref 
+32716   WGS84_UTM_zone_16S                      = Idrisi utm-16s.ref 
+32717   WGS84_UTM_zone_17S                      = Idrisi utm-17s.ref 
+32718   WGS84_UTM_zone_18S                      = Idrisi utm-18s.ref 
+32719   WGS84_UTM_zone_19S                      = Idrisi utm-19s.ref 
+32720   WGS84_UTM_zone_20S                      = Idrisi utm-20s.ref 
+32721   WGS84_UTM_zone_21S                      = Idrisi utm-21s.ref 
+32722   WGS84_UTM_zone_22S                      = Idrisi utm-22s.ref 
+32723   WGS84_UTM_zone_23S                      = Idrisi utm-23s.ref 
+32724   WGS84_UTM_zone_24S                      = Idrisi utm-24s.ref 
+32725   WGS84_UTM_zone_25S                      = Idrisi utm-25s.ref 
+32726   WGS84_UTM_zone_26S                      = Idrisi utm-26s.ref                      = Idrisi utm-10s.ref 
+32727   WGS84_UTM_zone_27S                      = Idrisi utm-27s.ref 
+32728   WGS84_UTM_zone_28S                      = Idrisi utm-28s.ref 
+32729   WGS84_UTM_zone_29S                      = Idrisi utm-29s.ref 
+32730   WGS84_UTM_zone_30S                      = Idrisi utm-30s.ref 
+32731   WGS84_UTM_zone_31S                      = Idrisi utm-31s.ref 
+32732   WGS84_UTM_zone_32S                      = Idrisi utm-32s.ref 
+32733   WGS84_UTM_zone_33S                      = Idrisi utm-33s.ref 
+32734   WGS84_UTM_zone_34S                      = Idrisi utm-34s.ref 
+32735   WGS84_UTM_zone_35S                      = Idrisi utm-35s.ref 
+32736   WGS84_UTM_zone_36S                      = Idrisi utm-36s.ref 
+32737   WGS84_UTM_zone_37S                      = Idrisi utm-37s.ref 
+32738   WGS84_UTM_zone_38S                      = Idrisi utm-38s.ref 
+32739   WGS84_UTM_zone_39S                      = Idrisi utm-39s.ref 
+32740   WGS84_UTM_zone_40S                      = Idrisi utm-40s.ref 
+32741   WGS84_UTM_zone_41S                      = Idrisi utm-41s.ref 
+32742   WGS84_UTM_zone_42S                      = Idrisi utm-42s.ref                      = Idrisi utm-10s.ref 
+32743   WGS84_UTM_zone_43S                      = Idrisi utm-43s.ref 
+32744   WGS84_UTM_zone_44S                      = Idrisi utm-44s.ref 
+32745   WGS84_UTM_zone_45S                      = Idrisi utm-45s.ref 
+32746   WGS84_UTM_zone_46S                      = Idrisi utm-46s.ref 
+32747   WGS84_UTM_zone_47S                      = Idrisi utm-47s.ref 
+32748   WGS84_UTM_zone_48S                      = Idrisi utm-48s.ref 
+32749   WGS84_UTM_zone_49S                      = Idrisi utm-49s.ref 
+32750   WGS84_UTM_zone_50S                      = Idrisi utm-50s.ref 
+32751   WGS84_UTM_zone_51S                      = Idrisi utm-51s.ref 
+32752   WGS84_UTM_zone_52S                      = Idrisi utm-52s.ref 
+32753   WGS84_UTM_zone_53S                      = Idrisi utm-53s.ref 
+32754   WGS84_UTM_zone_54S                      = Idrisi utm-54s.ref 
+32755   WGS84_UTM_zone_55S                      = Idrisi utm-55s.ref 
+32756   WGS84_UTM_zone_56S                      = Idrisi utm-56s.ref 
+32757   WGS84_UTM_zone_57S                      = Idrisi utm-57s.ref 
+32758   WGS84_UTM_zone_58S                      = Idrisi utm-58s.ref 
+32759   WGS84_UTM_zone_59S                      = Idrisi utm-59s.ref 
+32760   WGS84_UTM_zone_60S                      = Idrisi utm-60s.ref

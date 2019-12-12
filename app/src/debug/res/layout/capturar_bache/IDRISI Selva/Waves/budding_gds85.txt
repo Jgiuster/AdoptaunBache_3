@@ -1,0 +1,85 @@
+ TITLE: Buddingtonite GDS85 D-206 DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: GDS85 (D-206) 
+ 
+ MINERAL_TYPE: Tectosilicate 
+ 
+ MINERAL: Buddingtonite (Feldspar group) 
+ 
+ FORMULA: (NH4)AlSi3O8*0.5H20 
+ 
+ FORMULA_NROFF: (NH\d4\u)AlSi\d3\uO\d8\u\(bu\(12H\d2\u0 
+ 
+ COLLECTION_LOCALITY: Sulphur Bank, California 
+ 
+ ORIGINAL_DONOR: Dennis Krohn, USGS Reston 
+ 
+ CURRENT_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ ULTIMATE_SAMPLE_LOCATION: USGS Reston (M. Dennis Krohn) 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ .fi 
+ Comment: there are weak bands at 1.4 and 1.55   umm.  The 1.55 might 
+ be due to alunite.  If so, the buddingtonite feature is more than 10 
+ times stronger, so the buddingtonite 2.1-  umm feature is probably 
+ spectrally pure.  Similar arguments for the 1.4 band.  If these 
+ features are due to buddingtonite itself, then it is even more 
+ spectrally pure.  Roger N. Clark 
+ .nf 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ XRD_ANALYSIS: 
+ 
+ Quartz - major component 
+ Buddingtonite - major component 
+ No apparent alunite 
+ 
+ .fi 
+ Konnert, Judith and Marta Flohr, 1992, unpublished data, USGS 
+ Reston, VA. 
+ .nf 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE: None      # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ COMPOSITION_TRACE: None 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+                  Bimodal Grain size distribution: 
+                      mode 1: 217   umm @ 5 vol% 
+                      mode 2:  12   umm @ 95 vol% 
+ 
+              avg gr sz = 50   u*mm  (includes quartz) 
+ 
+              mode: 
+           75 vol% Buddingtonite 
+           20 vol% quartz 
+            5 vol%  Fe-oxides 
+ 
+ .fi 
+ Buddingtonite has mottled extinction and is highly altered.  Quartz forms large
+ r grains. 
+ Most buddingtonite is polygranular with effective grain size around 40   umm.  
+ No HCl 
+ fizz.  G. Swayze. 
+ .nf 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: bmiddleb@speclab (Barry J. Middlebrook) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r  744    0.2-3.0  umm      200     g.s.= 50   umm 
+ 

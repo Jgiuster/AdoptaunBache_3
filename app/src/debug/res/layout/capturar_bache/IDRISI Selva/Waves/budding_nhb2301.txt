@@ -1,0 +1,66 @@
+ TITLE: Buddingtonite NHB2301 DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: NHB2301 
+ 
+ MINERAL_TYPE: Tectosilicate 
+ 
+ MINERAL: Buddingtonite (Feldspar group) 
+ 
+ FORMULA: (NH4)AlSi3O8*0.5H2O 
+ 
+ FORMULA_NROFF: (NH\d4\u)AlSi\d3\uO\d8\u\(bu\(12H\d2\uO 
+ 
+ COLLECTION_LOCALITY: Sharon Heights #2, San Mateo, CA 
+ 
+ ORIGINAL_DONOR: Richard C. Erd, USGS Menlo Park, CA 
+ 
+ CURRENT_SAMPLE_LOCATION: CSES/CIRES, Univ. of CO, Boulder 
+ 
+ ULTIMATE_SAMPLE_LOCATION: CSES/CIRES, Univ. of CO, Boulder 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ 
+ XRD_ANALYSIS: 
+ 
+  Pure (?) 
+ 
+ .fi 
+ Kruse, F.A. and P.L. Hauff, eds., 1992, The IGCP-264 Spectral 
+ Properties Database. IUGS/UNESCO, Special Publication, 211p., (in 
+ press). 
+ .nf 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE: None          # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ COMPOSITION_TRACE: None 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ From composition analyses: (NH\d4\u)\d2\uO = 8.34 wt% 
+                             other   = .59 wt% 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+ avg gr sz = 8   umm 
+ 
+ Purity of sample difficult to evaluate because of fine grain size.  G. Swayze. 
+ 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: agall@speclab (Andrea J. Gallagher) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r  754   0.2-3.0  umm      200     g.s.= 8   umm 
+ 

@@ -1,0 +1,101 @@
+
+
+ TITLE: Dry_Long_Grass AV87-2 (Brown) DESCRIPT 
+
+ 
+
+ DOCUMENTATION_FORMAT: PLANT 
+
+ 
+
+ SAMPLE_ID: AV87-2 
+
+ 
+
+ PLANT_TYPE: Grass 
+
+ 
+
+ PLANT: Dry Long Grass 
+
+ 
+
+ LATIN_NAME: 
+
+ 
+
+ COLLECTION_LOCALITY: Canon City, Colorado 
+
+ 
+
+ ORIGINAL_DONOR: 
+
+ 
+
+ SAMPLE_DESCRIPTION: 
+
+ 
+
+ Dry long grass from the Pierre shale.  Collected early August. 
+
+ 
+
+ END_SAMPLE_DESCRIPTION. 
+
+ 
+
+ COMPOSITIONAL_ANALYSIS_TYPE: 
+
+ 
+
+ .KS 
+
+ .nf 
+
+ COMPOSITION:      Cellulose:              wt% 
+
+ COMPOSITION:         Lignin:              wt% 
+
+ COMPOSITION:  Chlorophyll_A:              wt% 
+
+ COMPOSITION:  Chlorophyll_B:              wt% 
+
+ COMPOSITION:       Nitrogen:              wt% 
+
+ .KE 
+
+ 
+
+ COMPOSITION_DISCUSSION: 
+
+ 
+
+ END_COMPOSITION_DISCUSSION. 
+
+ 
+
+ TRACE_ELEMENT_ANALYSIS: 
+
+ 
+
+ TRACE_ELEMENT_DISCUSSION: 
+
+ 
+
+ END_TRACE_ELEMENT_DISCUSSION. 
+
+ 
+
+ DOCUMENTED_BY: agall@speclab (Andrea J. Gallagher) 
+
+ 
+
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+
+ 
+
+ LIB_SPECTRA:  splib04a r 5246    0.2-3.0  umm      200 
+
+ 
+
+

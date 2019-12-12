@@ -1,0 +1,63 @@
+ TITLE: Alunite AL706 DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: AL706 
+ 
+ MINERAL_TYPE: Sulfate 
+ 
+ MINERAL: Alunite (Alunite group) 
+ 
+ FORMULA: (Na,K)Al3(SO4)2(OH)6 
+ 
+ FORMULA_NROFF: (Na,K)Al\d3\u(SO\d4\u)\d2\u(OH)\d6\u 
+ 
+ COLLECTION_LOCALITY: Sulfur, Nevada 
+ 
+ ORIGINAL_DONOR: Ron Lyon, Stanford University 
+ 
+ CURRENT_SAMPLE_LOCATION: CSES/CIRES, Univ. of CO, Boulder 
+ 
+ ULTIMATE_SAMPLE_LOCATION: CSES/CIRES, Univ. of CO, Boulder 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ XRD_ANALYSIS: 
+ 
+ Alunite 
+ Contaminant phases: smectite, quartz, minor amounts. 
+ 
+ .fi 
+ Kruse, F.A., and P.L. Hauff, eds., 1992,  The IGCP-264 Spectral 
+ Properties Database. IUSG/UNESCO, Special Publication, 211p., (in press). 
+ .nf 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE: None          # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ COMPOSITION_TRACE: None 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+ avg gr sz = 15   umm 
+ .fi 
+ Length fast, 1st order grey, sample looks pure but small grain size prevents de
+ termination 
+ of optical sign.   G. Swayze. 
+ .nf 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: agall@speclab (Andrea J. Gallagher) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r  239   0.2-3.0  umm      200     g.s.= 15   umm 
+ 

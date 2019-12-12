@@ -1,0 +1,14 @@
+ref. system : Universal Transverse Mercator Zone 6
+projection  : Transverse Mercator
+datum       : WGS84
+delta WGS84 : 0 0 0
+ellipsoid   : WGS 84 
+major s-ax  : 6378137.000
+minor s-ax  : 6356752.314
+origin long : -147
+origin lat  : 0
+origin X    : 500000
+origin Y    : 0
+scale fac   : 0.9996
+units       : m
+parameters  : 0

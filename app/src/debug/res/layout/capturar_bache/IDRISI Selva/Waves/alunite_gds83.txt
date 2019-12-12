@@ -1,0 +1,87 @@
+ TITLE: Alunite GDS83 (Na) DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: GDS83 
+ 
+ MINERAL_TYPE: Sulfate 
+ 
+ MINERAL: Alunite (Na63)(Alunite group) 
+ 
+ FORMULA: (Na,K)Al3(SO4)2(OH)6    Na63 
+ 
+ FORMULA_NROFF: (Na,K)Al\d3\u(SO\d4\u)\d2\u(OH)\d6\u    (Na\d63\u) 
+ 
+ COLLECTION_LOCALITY: Komatsuga, Japan 
+ 
+ ORIGINAL_DONOR: Roger Stoffregen, SMU 
+ 
+ CURRENT_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ ULTIMATE_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ .fi 
+ This alunite sample is from a high temperature, coarse vein 
+ deposit. 
+ .nf 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ 
+ XRD_ANALYSIS: 
+ 
+ "40 kV - 30 mA, 6.5-9.5 keV (n65alnt.out) 
+  References: JCPDS #41-1467; Parker (1962) 
+  Found: alunite and a major unidentified phase 
+  Comment: The alunite closely matches natroalunite; its sharp 
+           reflections indicate good crystallinity and 
+           compositional homogeneity.  The additional phase(s) 
+           has some strong lines (d in angstroms / intensity): 
+           2.81/100, 2.253/100, 2.002/2, 1.877/50, 1.575/10, 
+           1.473/100.  I have been unable to identify this phase. 
+           Where not obscured by the alunite, peaks of this 
+           unidentified phase "tail off" toward larger d, 
+           suggesting compositional zoning." 
+ 
+ J.S. Huebner, J. Pickrell, and J. Randow, 1993,  written communication. 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE: None          # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ COMPOSITION_TRACE:: None 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ Standard used by Stoffregen et al. 
+ 
+ .fi 
+ Stoffregen, R., and Alpers, C., 1992, Observations on the unit-cell dimensions,
+  H2O 
+ contents and del D values of natural and synthetic alunite: American Mineralogi
+ st, v.77, 
+ p. 1092-1098. 
+ .nf 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+ avg gr sz = 35   umm 
+ 
+ .fi 
+ Uniaxial (+), low birefringence, length fast, basal cleavage, all consistent wi
+ th alunite. 
+ Very little contamination.  G. Swayze. 
+ .nf 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: agall@speclab (Andrea J. Gallagher) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r  215   0.2-3.0  umm      200     g.s.= 35   umm 
+ 

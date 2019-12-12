@@ -1,0 +1,77 @@
+ TITLE: Alunite GDS84 (K) DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: GDS84 
+ 
+ MINERAL_TYPE: Sulfate 
+ 
+ MINERAL: Alunite (Na03) (Alunite group) 
+ 
+ FORMULA: KAl3(SO4)2(OH)6    Na03 
+ 
+ FORMULA_NROFF: KAl\d3\u(SO\d4\u)\d2\u(OH)\d6\u   (Na\d03\u) 
+ 
+ COLLECTION_LOCALITY: Marysvale, UT 
+ 
+ ORIGINAL_DONOR: Roger Stoffregen, SMU 
+ 
+ CURRENT_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ ULTIMATE_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ .fi 
+ This alunite sample is from a high temperature, coarse vein 
+ deposit. 
+ .nf 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ 
+ XRD_ANALYSIS: 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE: None          # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ COMPOSITION_TRACE: None 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ Standard used by Stoffregen et al. 
+ 
+ .fi 
+ Stoffregen, R., and Alpers, C., 1992, Observations on the unit-cell dimensions,
+  H2O 
+ contents and del D values of natural and synthetic alunite: American Mineralogi
+ st, v.77, 
+ p. 1092-1098. 
+ .nf 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+          Bimodal Grain size distribution: 
+                  mode 1: 400   umm @ 65 vol% 
+                  mode 2:  40   umm @ 35 vol% 
+ 
+         avg gr sz = 260   umm 
+ 
+ .fi 
+ Trace of Fe-staining on larger gtrains as discontinuous crust covering or cloud
+ ing 5-10% 
+ of grains.  Uniaxial (+), good basal cleavage, all consistent with alunite.  G.
+  Swayze. 
+ .nf 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: agall@speclab (Andrea J.  Gallagher) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r  204   0.2-3.0  umm      200     g.s.= 260   umm 
+ 

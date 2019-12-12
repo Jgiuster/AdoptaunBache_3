@@ -1,0 +1,342 @@
+Could Not Find C:\Program Files\QGIS Essen\preremove-conf.bat
+OSGEO4W_ROOT=C:\PROGRA~1\QGISES~1
+OSGEO4W_ROOT_MSYS=/C/PROGRA~1/QGISES~1
+OSGEO4W_STARTMENU=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen
+OSGEO4W_DESKTOP=C:\Users\Public\Desktop\QGIS Essen
+Running postinstall gdal-python.bat...
+
+C:\PROGRA~1\QGISES~1>"C:\PROGRA~1\QGISES~1\bin\make-bat-for-py.bat"
+
+    Generating .bat files for all .py files in C:\PROGRA~1\QGISES~1\bin
+
+Running postinstall grass.bat...
+
+C:\PROGRA~1\QGISES~1>set ICON=C:\PROGRA~1\QGISES~1\apps\grass\grass-7.0.3\gui\icons\grass_osgeo.ico 
+
+C:\PROGRA~1\QGISES~1>set BATCH=C:\PROGRA~1\QGISES~1\bin\grass70.bat 
+
+C:\PROGRA~1\QGISES~1>textreplace -std -t "C:\PROGRA~1\QGISES~1\bin\grass70.bat" 
+
+C:\PROGRA~1\QGISES~1>textreplace -std -t "C:\PROGRA~1\QGISES~1"\apps\grass\grass-7.0.3\etc\fontcap 
+
+C:\PROGRA~1\QGISES~1>xxmklink "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen\GRASS GIS 7.0.3.lnk"       "C:\PROGRA~1\QGISES~1\bin\grass70.bat"  "-gui" \ "Launch GRASS GIS 7.0.3" 1 "C:\PROGRA~1\QGISES~1\apps\grass\grass-7.0.3\gui\icons\grass_osgeo.ico"  
+
+XXMkLink     ver 1.00    (c)2005 Copyright  Pixelab, Inc.
+
+The shortut created as follows
+
+Shortcut path:     C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen\GRASS GIS 7.0.3.lnk
+Target object:     C:\PROGRA~1\QGISES~1\bin\grass70.bat
+Arguments;         -gui
+Working Directory: \
+Description:       Launch GRASS GIS 7.0.3
+Display Mode:      Normal Window (1)
+Icon file:         C:\PROGRA~1\QGISES~1\apps\grass\grass-7.0.3\gui\icons\grass_osgeo.ico
+
+
+C:\PROGRA~1\QGISES~1>xxmklink "C:\ProgramData\Desktop\GRASS GIS 7.0.3.lnk" "C:\PROGRA~1\QGISES~1\bin\grass70.bat"  "-gui" \ "Launch GRASS GIS 7.0.3" 1 "C:\PROGRA~1\QGISES~1\apps\grass\grass-7.0.3\gui\icons\grass_osgeo.ico"  
+
+XXMkLink     ver 1.00    (c)2005 Copyright  Pixelab, Inc.
+
+
+Failed to create the shortcut.
+
+C:\PROGRA~1\QGISES~1>rem run g.mkfontcap outside a GRASS session during 
+
+C:\PROGRA~1\QGISES~1>rem an OSGeo4W installation for updating paths to fonts 
+
+C:\PROGRA~1\QGISES~1>rem set gisbase 
+
+C:\PROGRA~1\QGISES~1>set GISBASE=C:\PROGRA~1\QGISES~1\apps\grass\grass-7.0.3 
+
+C:\PROGRA~1\QGISES~1>rem set path to freetype dll and its dependencies 
+
+C:\PROGRA~1\QGISES~1>set FREETYPEBASE=C:\PROGRA~1\QGISES~1\bin;C:\PROGRA~1\QGISES~1\apps\msys\bin;C:\PROGRA~1\QGISES~1\apps\grass\grass-7.0.3\lib 
+
+C:\PROGRA~1\QGISES~1>rem set dependencies to path 
+
+C:\PROGRA~1\QGISES~1>set PATH=C:\PROGRA~1\QGISES~1\bin;C:\PROGRA~1\QGISES~1\apps\msys\bin;C:\PROGRA~1\QGISES~1\apps\grass\grass-7.0.3\lib;C:\PROGRA~1\QGISES~1\bin;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\12.0\DLLShared\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\ 
+
+C:\PROGRA~1\QGISES~1>rem GISRC must be set 
+
+C:\PROGRA~1\QGISES~1>set GISRC=dummy 
+
+C:\PROGRA~1\QGISES~1>rem run g.mkfontcap outside a GRASS session 
+
+C:\PROGRA~1\QGISES~1>"C:\PROGRA~1\QGISES~1\apps\grass\grass-7.0.3\bin\g.mkfontcap.exe" -o 
+
+C:\PROGRA~1\QGISES~1>del "C:\PROGRA~1\QGISES~1\bin\grass70.bat.tmpl 
+Running postinstall liblas.bat...
+
+C:\PROGRA~1\QGISES~1>textreplace -std -t bin/liblas.bat 
+Running postinstall msvcrt-2008.bat...
+
+C:\PROGRA~1\QGISES~1>for %f in ("C:\Users\Acmeldan\AppData\Local\Temp") do call set TEMPDRIVE=%~df 
+
+C:\PROGRA~1\QGISES~1>call set TEMPDRIVE=C: 
+
+C:\PROGRA~1\QGISES~1>cd C:\Users\Acmeldan\AppData\Local\Temp 
+
+C:\Users\Acmeldan\AppData\Local\Temp>"C:\PROGRA~1\QGISES~1\bin\vcredist-2008-sp1-x64.exe" /q 
+
+C:\Users\Acmeldan\AppData\Local\Temp>if errorlevel 3010 echo1>"C:\PROGRA~1\QGISES~1\etc\reboot" 
+
+C:\Users\Acmeldan\AppData\Local\Temp>del "C:\PROGRA~1\QGISES~1\bin\vcredist-2008-sp1-x64.exe" 
+Running postinstall msvcrt-2010.bat...
+
+C:\PROGRA~1\QGISES~1>for %f in ("C:\Users\Acmeldan\AppData\Local\Temp") do call set TEMPDRIVE=%~df 
+
+C:\PROGRA~1\QGISES~1>call set TEMPDRIVE=C: 
+
+C:\PROGRA~1\QGISES~1>cd C:\Users\Acmeldan\AppData\Local\Temp 
+
+C:\Users\Acmeldan\AppData\Local\Temp>"C:\PROGRA~1\QGISES~1\bin\vcredist-2010-x64.exe" /q 
+
+C:\Users\Acmeldan\AppData\Local\Temp>if errorlevel 3010 echo1>"C:\PROGRA~1\QGISES~1\etc\reboot" 
+
+C:\Users\Acmeldan\AppData\Local\Temp>del "C:\PROGRA~1\QGISES~1\bin\vcredist-2010-x64.exe" 
+Running postinstall msvcrt-2013.bat...
+
+C:\PROGRA~1\QGISES~1>for %f in ("C:\Users\Acmeldan\AppData\Local\Temp") do call set TEMPDRIVE=%~df 
+
+C:\PROGRA~1\QGISES~1>call set TEMPDRIVE=C: 
+
+C:\PROGRA~1\QGISES~1>cd C:\Users\Acmeldan\AppData\Local\Temp 
+
+C:\Users\Acmeldan\AppData\Local\Temp>"C:\PROGRA~1\QGISES~1\bin\vcredist-2013-x64.exe" /q 
+
+C:\Users\Acmeldan\AppData\Local\Temp>if errorlevel 3010 echo1>"C:\PROGRA~1\QGISES~1\etc\reboot" 
+
+C:\Users\Acmeldan\AppData\Local\Temp>del "C:\PROGRA~1\QGISES~1\bin\vcredist-2013-x64.exe" 
+C:\PROGRA~1\QGISES~1\bin\vcredist-2013-x64.exe
+Access is denied.
+Running postinstall openssl.bat...
+
+C:\PROGRA~1\QGISES~1>dllupdate -oite -copy -reboot "C:\PROGRA~1\QGISES~1\bin\libeay32.dll" 
+C:\PROGRA~1\QGISES~1\bin\libeay32.dll: Version=1.0.1.7
+C:\Windows\system32\libeay32.dll: Version=0.0.0.0
+Target does not exist, no action.
+
+C:\PROGRA~1\QGISES~1>dllupdate -oite -copy -reboot "C:\PROGRA~1\QGISES~1\bin\ssleay32.dll" 
+C:\PROGRA~1\QGISES~1\bin\ssleay32.dll: Version=1.0.1.7
+C:\Windows\system32\ssleay32.dll: Version=0.0.0.0
+Target does not exist, no action.
+Running postinstall pyqt4.bat...
+
+C:\PROGRA~1\QGISES~1>textreplace -std -t bin\pyuic4.bat 
+
+C:\PROGRA~1\QGISES~1>set OSGEO4W_ROOT=C:\\PROGRA~1\\QGISES~1 
+
+C:\PROGRA~1\QGISES~1>textreplace -std -t apps\Python27\Lib\site-packages\PyQt4\pyqtconfig.py 
+Running postinstall python-core.bat...
+
+C:\PROGRA~1\QGISES~1>call "C:\PROGRA~1\QGISES~1\bin\make-bat-for-py.bat" 
+
+    Generating .bat files for all .py files in C:\PROGRA~1\QGISES~1\bin
+
+Running postinstall qgis-common.bat...
+
+C:\PROGRA~1\QGISES~1>call "C:\PROGRA~1\QGISES~1\bin\o4w_env.bat" 
+
+C:\PROGRA~1\QGISES~1>REM Make parent of this script location our current directory, 
+
+C:\PROGRA~1\QGISES~1>REM converting UNC path to drive letter if needed 
+
+C:\PROGRA~1\QGISES~1>pushd C:\PROGRA~1\QGISES~1\bin\ 
+
+C:\PROGRA~1\QGISES~1\bin>cd .. 
+
+C:\PROGRA~1\QGISES~1>REM set OSGEO4W_ROOT to short path version 
+
+C:\PROGRA~1\QGISES~1>for %i in ("C:\PROGRA~1\QGISES~1") do set OSGEO4W_ROOT=%~fsi 
+
+C:\PROGRA~1\QGISES~1>set OSGEO4W_ROOT=C:\PROGRA~1\QGISES~1 
+
+C:\PROGRA~1\QGISES~1>REM start with clean path 
+
+C:\PROGRA~1\QGISES~1>set path=C:\PROGRA~1\QGISES~1\bin;C:\Windows\system32;C:\Windows;C:\Windows\WBem 
+
+C:\PROGRA~1\QGISES~1>for %f in ("C:\PROGRA~1\QGISES~1\etc\ini\*.bat") do call "%f" 
+
+C:\PROGRA~1\QGISES~1>call "C:\PROGRA~1\QGISES~1\etc\ini\gdal.bat" 
+
+C:\PROGRA~1\QGISES~1>SET GDAL_DATA=C:\PROGRA~1\QGISES~1\share\gdal 
+
+C:\PROGRA~1\QGISES~1>SET GDAL_DRIVER_PATH=C:\PROGRA~1\QGISES~1\bin\gdalplugins 
+
+C:\PROGRA~1\QGISES~1>call "C:\PROGRA~1\QGISES~1\etc\ini\libgeotiff.bat" 
+
+C:\PROGRA~1\QGISES~1>SET GEOTIFF_CSV=C:\PROGRA~1\QGISES~1\share\epsg_csv 
+
+C:\PROGRA~1\QGISES~1>call "C:\PROGRA~1\QGISES~1\etc\ini\libjpeg.bat" 
+
+C:\PROGRA~1\QGISES~1>set JPEGMEM=1000000 
+
+C:\PROGRA~1\QGISES~1>call "C:\PROGRA~1\QGISES~1\etc\ini\liblas.bat" 
+
+C:\PROGRA~1\QGISES~1>SET GDAL_DATA=C:\PROGRA~1\QGISES~1\share\gdal 
+
+C:\PROGRA~1\QGISES~1>call "C:\PROGRA~1\QGISES~1\etc\ini\msvcrt.bat" 
+
+C:\PROGRA~1\QGISES~1>rem This is just a dummy to make sure the for loop in ..\..\osgeo4w.bat  
+
+C:\PROGRA~1\QGISES~1>rem always has some files to process. 
+
+C:\PROGRA~1\QGISES~1>call "C:\PROGRA~1\QGISES~1\etc\ini\proj.bat" 
+
+C:\PROGRA~1\QGISES~1>SET PROJ_LIB=C:\PROGRA~1\QGISES~1\share\proj 
+
+C:\PROGRA~1\QGISES~1>call "C:\PROGRA~1\QGISES~1\etc\ini\python-core.bat" 
+
+C:\PROGRA~1\QGISES~1>SET PYTHONHOME=C:\PROGRA~1\QGISES~1\apps\Python27 
+
+C:\PROGRA~1\QGISES~1>PATH C:\PROGRA~1\QGISES~1\apps\Python27\Scripts;C:\PROGRA~1\QGISES~1\bin;C:\Windows\system32;C:\Windows;C:\Windows\WBem 
+
+C:\PROGRA~1\QGISES~1>call "C:\PROGRA~1\QGISES~1\etc\ini\qt4.bat" 
+
+C:\PROGRA~1\QGISES~1>set QT_PLUGIN_PATH=C:\PROGRA~1\QGISES~1\apps\Qt4\plugins 
+
+C:\PROGRA~1\QGISES~1>set QT_RASTER_CLIP_LIMIT=4096 
+
+C:\PROGRA~1\QGISES~1>popd
+
+C:\PROGRA~1\QGISES~1>path C:\PROGRA~1\QGISES~1\apps\Python27\Scripts;C:\PROGRA~1\QGISES~1\bin;C:\Windows\system32;C:\Windows;C:\Windows\WBem;C:\PROGRA~1\QGISES~1\apps\qgis\bin 
+
+C:\PROGRA~1\QGISES~1>set QGIS_PREFIX_PATH=C:/PROGRA~1/QGISES~1/apps/qgis 
+
+C:\PROGRA~1\QGISES~1>"C:\PROGRA~1\QGISES~1\apps\qgis\crssync"
+Synchronizing CRS database with GDAL/PROJ definitions.
+Only 0 columns
+Load srs db from: C:/PROGRA~1/QGISES~1/apps/qgis/./resources/srs.db
+Loaded 475/476 from C:\PROGRA~1\QGISES~1\share\gdal\gcs.csv
+Loaded 4240/4316 from C:\PROGRA~1\QGISES~1\share\gdal\pcs.csv
+Loaded 176/177 from C:\PROGRA~1\QGISES~1\share\gdal\vertcs.csv
+Loaded 150/151 from C:\PROGRA~1\QGISES~1\share\gdal\compdcs.csv
+Loaded 138/139 from C:\PROGRA~1\QGISES~1\share\gdal\geoccs.csv
+Loading epsg.wkt
+Loading esri_extra.wkt
+5631 WKTs loaded
+CRS update (inserted:694 updated:687 deleted:1 errors:0)
+1381 CRSs updated.
+Running postinstall qgis-grass-plugin7.bat...
+
+C:\PROGRA~1\QGISES~1>textreplace -std -t bin\qgis-grass7.bat 
+
+C:\PROGRA~1\QGISES~1>textreplace -std -t bin\qgis-browser-grass7.bat 
+
+C:\PROGRA~1\QGISES~1>if "C:\Users\Public\Desktop\QGIS Essen" == "" set OSGEO4W_DESKTOP=~$folder.common_desktop$ 
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 mkdir "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen" 
+A subdirectory or file C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen already exists.
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 nircmd shortcut "C:\PROGRA~1\QGISES~1\bin\nircmd.exe" "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen" "QGIS Desktop 2.14.2 with GRASS 7.0.3" "exec hide C:\PROGRA~1\QGISES~1\bin\qgis-grass7.bat" "C:\PROGRA~1\QGISES~1\apps\qgis\icons\QGIS.ico" 
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 nircmd shortcut "C:\PROGRA~1\QGISES~1\bin\nircmd.exe" "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen" "QGIS Browser 2.14.2 with GRASS 7.0.3" "exec hide C:\PROGRA~1\QGISES~1\bin\qgis-browser-grass7.bat" "C:\PROGRA~1\QGISES~1\apps\qgis\icons\browser.ico" 
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 mkdir "C:\Users\Public\Desktop\QGIS Essen" 
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 nircmd shortcut "C:\PROGRA~1\QGISES~1\bin\nircmd.exe" "C:\Users\Public\Desktop\QGIS Essen" "QGIS Desktop 2.14.2 with GRASS 7.0.3" "exec hide C:\PROGRA~1\QGISES~1\bin\qgis-grass7.bat" "C:\PROGRA~1\QGISES~1\apps\qgis\icons\QGIS.ico" 
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 nircmd shortcut "C:\PROGRA~1\QGISES~1\bin\nircmd.exe" "C:\Users\Public\Desktop\QGIS Essen" "QGIS Browser 2.14.2 with GRASS 7.0.3" "exec hide C:\PROGRA~1\QGISES~1\bin\qgis-browser-grass7.bat" "C:\PROGRA~1\QGISES~1\apps\qgis\icons\browser.ico" 
+Running postinstall qgis.bat...
+
+C:\PROGRA~1\QGISES~1>textreplace -std -t bin\qgis.bat 
+
+C:\PROGRA~1\QGISES~1>textreplace -std -t bin\qgis-browser.bat 
+
+C:\PROGRA~1\QGISES~1>textreplace -std -t bin\qgis-designer.bat 
+
+C:\PROGRA~1\QGISES~1>textreplace -std -t bin\python-qgis.bat 
+
+C:\PROGRA~1\QGISES~1>REM get short path without blanks 
+
+C:\PROGRA~1\QGISES~1>for %i in ("C:\PROGRA~1\QGISES~1") do set O4W_ROOT=%~fsi 
+
+C:\PROGRA~1\QGISES~1>set O4W_ROOT=C:\PROGRA~1\QGISES~1 
+
+C:\PROGRA~1\QGISES~1>if "C:\Users\Public\Desktop\QGIS Essen" == "" set OSGEO4W_DESKTOP=~$folder.common_desktop$ 
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 mkdir "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen" 
+A subdirectory or file C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen already exists.
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 nircmd shortcut "C:\PROGRA~1\QGISES~1\bin\nircmd.exe" "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen" "QGIS Desktop 2.14.2" "exec hide C:\PROGRA~1\QGISES~1\bin\qgis.bat" "C:\PROGRA~1\QGISES~1\apps\qgis\icons\QGIS.ico" 
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 nircmd shortcut "C:\PROGRA~1\QGISES~1\bin\nircmd.exe" "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen" "QGIS Browser 2.14.2" "exec hide C:\PROGRA~1\QGISES~1\bin\qgis-browser.bat" "C:\PROGRA~1\QGISES~1\apps\qgis\icons\browser.ico" 
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 nircmd shortcut "C:\PROGRA~1\QGISES~1\bin\nircmd.exe" "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen" "Qt Designer with QGIS 2.14.2 custom widgets" "exec hide """C:\PROGRA~1\QGISES~1\bin\qgis-designer.bat"" "C:\PROGRA~1\QGISES~1\apps\qgis\icons\QGIS.ico" 
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 mkdir "C:\Users\Public\Desktop\QGIS Essen" 
+A subdirectory or file C:\Users\Public\Desktop\QGIS Essen already exists.
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 nircmd shortcut "C:\PROGRA~1\QGISES~1\bin\nircmd.exe" "C:\Users\Public\Desktop\QGIS Essen" "QGIS Desktop 2.14.2" "exec hide C:\PROGRA~1\QGISES~1\bin\qgis.bat" "C:\PROGRA~1\QGISES~1\apps\qgis\icons\QGIS.ico" 
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 nircmd shortcut "C:\PROGRA~1\QGISES~1\bin\nircmd.exe" "C:\Users\Public\Desktop\QGIS Essen" "QGIS Browser 2.14.2" "exec hide C:\PROGRA~1\QGISES~1\bin\qgis-browser.bat" "C:\PROGRA~1\QGISES~1\apps\qgis\icons\browser.ico" 
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 nircmd shortcut "C:\PROGRA~1\QGISES~1\bin\nircmd.exe" "C:\Users\Public\Desktop\QGIS Essen" "Qt Designer with QGIS 2.14.2 custom widgets" "exec hide C:\PROGRA~1\QGISES~1\bin\qgis-designer.bat" "C:\PROGRA~1\QGISES~1\apps\qgis\icons\QGIS.ico" 
+
+C:\PROGRA~1\QGISES~1>set OSGEO4W_ROOT=C:\\PROGRA~1\\QGISES~1 
+
+C:\PROGRA~1\QGISES~1>textreplace -std -t "C:\PROGRA~1\QGISES~1\apps\qgis\bin\qgis.reg" 
+
+C:\PROGRA~1\QGISES~1>nircmd elevate "C:\Windows\regedit" /s "C:\PROGRA~1\QGISES~1\apps\qgis\bin\qgis.reg" 
+Running postinstall qt4-devel.bat...
+
+C:\PROGRA~1\QGISES~1>set OSGEO4W_ROOT=C:\\PROGRA~1\\QGISES~1 
+
+C:\PROGRA~1\QGISES~1>textreplace -std -t "C:\\PROGRA~1\\QGISES~1"\apps\Qt4\mkspecs\default\qmake.conf 
+Running postinstall qt4-libs.bat...
+
+C:\PROGRA~1\QGISES~1>set OSGEO4W_ROOT=C:/PROGRA~1/QGISES~1 
+
+C:\PROGRA~1\QGISES~1>textreplace -std -t "C:/PROGRA~1/QGISES~1"\bin\qt.conf 
+Running postinstall saga.bat...
+
+C:\PROGRA~1\QGISES~1>if "C:\Users\Public\Desktop\QGIS Essen" == "" set OSGEO4W_DESKTOP=C:\ProgramData\Desktop 
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 mkdir "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen" 
+A subdirectory or file C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen already exists.
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 nircmd shortcut "C:\PROGRA~1\QGISES~1\bin\nircmd.exe" "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen" "SAGA GIS (2.1.2)" "exec hide "C:\PROGRA~1\QGISES~1\bin\saga_gui.bat" "C:\PROGRA~1\QGISES~1\apps\saga\saga_gui.exe" 
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 mkdir "C:\Users\Public\Desktop\QGIS Essen" 
+A subdirectory or file C:\Users\Public\Desktop\QGIS Essen already exists.
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 nircmd shortcut "C:\PROGRA~1\QGISES~1\bin\nircmd.exe" "C:\Users\Public\Desktop\QGIS Essen" "SAGA GIS (2.1.2)" "exec hide "C:\PROGRA~1\QGISES~1\bin\saga_gui.bat" "C:\PROGRA~1\QGISES~1\apps\saga\saga_gui.exe" 
+Running postinstall setup.bat...
+
+C:\PROGRA~1\QGISES~1>nircmd shortcut "C:\PROGRA~1\QGISES~1\bin\nircmd.exe" "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen" "Setup" "exec hide ~qC:\PROGRA~1\QGISES~1\bin\setup.bat~q -R ~qC:\PROGRA~1\QGISES~1~q" "C:\PROGRA~1\QGISES~1\OSGeo4W.ico" 
+
+C:\PROGRA~1\QGISES~1>textreplace -std -t bin/setup.bat 
+
+C:\PROGRA~1\QGISES~1>textreplace -std -t bin/setup-test.bat 
+Running postinstall shell.bat...
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 mkdir "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen" 
+A subdirectory or file C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen already exists.
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 xxmklink "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen\OSGeo4W Shell.lnk" "C:\PROGRA~1\QGISES~1\OSGeo4W.bat" " " \ "OSGeo for Windows command shell" 1 "C:\PROGRA~1\QGISES~1\OSGeo4W.ico" 
+
+XXMkLink     ver 1.00    (c)2005 Copyright  Pixelab, Inc.
+
+The shortut created as follows
+
+Shortcut path:     C:\ProgramData\Microsoft\Windows\Start Menu\Programs\QGIS Essen\OSGeo4W Shell.lnk
+Target object:     C:\PROGRA~1\QGISES~1\OSGeo4W.bat
+Arguments;          
+Working Directory: \
+Description:       OSGeo for Windows command shell
+Display Mode:      Normal Window (1)
+Icon file:         C:\PROGRA~1\QGISES~1\OSGeo4W.ico
+
+
+C:\PROGRA~1\QGISES~1>if not 1 == 0 xxmklink "C:\ProgramData\Desktop\OSGeo4W Shell.lnk" "C:\PROGRA~1\QGISES~1\OSGeo4W.bat" " " \ "OSGeo for Windows command shell" 1 "C:\PROGRA~1\QGISES~1\OSGeo4W.ico" 
+
+XXMkLink     ver 1.00    (c)2005 Copyright  Pixelab, Inc.
+
+
+Failed to create the shortcut.
+Running postinstall sip.bat...
+
+C:\PROGRA~1\QGISES~1>set OSGEO4W_ROOT=C:\\PROGRA~1\\QGISES~1 
+
+C:\PROGRA~1\QGISES~1>textreplace -std -t apps\Python27\Lib\site-packages\sipconfig.py 

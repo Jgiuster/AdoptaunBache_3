@@ -1,0 +1,97 @@
+
+
+ TITLE: Juniper_Bush IH91-4B DESCRIPT 
+
+ 
+
+ DOCUMENTATION_FORMAT: PLANT 
+
+ 
+
+ SAMPLE_ID: IH91-4B 
+
+ 
+
+ PLANT_TYPE: Shrub 
+
+ 
+
+ PLANT: Juniper 
+
+ 
+
+ LATIN_NAME: 
+
+ 
+
+ COLLECTION_LOCALITY: Iron Hill, CO 
+
+ 
+
+ ORIGINAL_DONOR: 
+
+ 
+
+ SAMPLE_DESCRIPTION: 
+
+ 
+
+ Juniper bush with berries 
+
+ Needles, stem and berries run 
+
+ 
+
+ END_SAMPLE_DESCRIPTION. 
+
+ 
+
+ COMPOSITIONAL_ANALYSIS_TYPE: 
+
+ 
+
+ COMPOSITION:      Cellulose:              wt% 
+
+ COMPOSITION:         Lignin:              wt% 
+
+ COMPOSITION:  Chlorophyll_A:              wt% 
+
+ COMPOSITION:  Chlorophyll_B:              wt% 
+
+ COMPOSITION:       Nitrogen:              wt% 
+
+ 
+
+ COMPOSITION_DISCUSSION: 
+
+ 
+
+ END_COMPOSITION_DISCUSSION. 
+
+ 
+
+ TRACE_ELEMENT_ANALYSIS: 
+
+ 
+
+ TRACE_ELEMENT_DISCUSSION: 
+
+ 
+
+ END_TRACE_ELEMENT_DISCUSSION. 
+
+ 
+
+ DOCUMENTED_BY: agall@speclab (Andrea J. Gallagher) 
+
+ 
+
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+
+ 
+
+ LIB_SPECTRA:  splib04a r 5265    0.2-3.0  umm      200 
+
+ 
+
+

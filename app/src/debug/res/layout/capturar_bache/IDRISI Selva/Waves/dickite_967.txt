@@ -1,0 +1,55 @@
+ TITLE: Dickite NMNH46967 DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: NMNH46967 
+ 
+ MINERAL_TYPE: Phyllosilicate 
+ 
+ MINERAL: Dickite (Kaolinite-Serpentine group) 
+ 
+ FORMULA: Al2Si2O5(OH)4 
+ 
+ FORMULA_NROFF: Al\d2\uSi\d2\uO\d5\u(OH)\d4\u 
+ 
+ COLLECTION_LOCALITY: Zuni Mine, Colorado 
+ 
+ ORIGINAL_DONOR: National Museum of Natural History 
+ 
+ CURRENT_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ ULTIMATE_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ .fi 
+ Polymorphous with Halloysite, Kaolinite, and Nacrite. 
+ .nf 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ 
+ XRD_ANALYSIS: 
+ 
+ Pure, N. Vergo. 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE:  None         # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ COMPOSITION_TRACE: None 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: agall@speclab (Andrea J. Gallagher) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r 1408   0.2-3.0  umm      200     g.s.= 
+ 

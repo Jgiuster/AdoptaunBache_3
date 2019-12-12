@@ -1,0 +1,214 @@
+ TITLE: Montmorillonite SCa-2 DESCRIPT 
+
+ 
+
+ DOCUMENTATION_FORMAT: MINERAL 
+
+ 
+
+ SAMPLE_ID: SCa-2 
+
+ 
+
+ MINERAL_TYPE: Phyllosilicate 
+
+ 
+
+ MINERAL: Montmorillonite (Montmorillonite group) 
+
+ 
+
+ FORMULA: (Na,Ca)0.33(Al,Mg)2Si4O10(OH)2*nH20 
+
+ 
+
+ FORMULA_NROFF: (Na,Ca)\d0.33\u(Al,Mg)\d2\uSi\d4\uO\d10\u(OH)\d2\u\(bunH\d2\u0 
+
+ 
+
+ COLLECTION_LOCALITY: San Diego County, CA 
+
+ 
+
+ ORIGINAL_DONOR: Clay Mineral Society 
+
+ 
+
+ CURRENT_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+
+ 
+
+ ULTIMATE_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+
+ 
+
+ SAMPLE_DESCRIPTION: 
+
+ 
+
+ A spectrum for this sample was published by: 
+
+ 
+
+ .fi 
+
+ Clark, R.N., T.V.V. King, M. Klejwa, G. Swayze, and N. Vergo, 1990, 
+
+ High spectral resolution reflectance spectroscopy of minerals: 
+
+ .I 
+
+ J. Geophys Res. 
+
+ .R 
+
+ .B 95, 
+
+ .R 
+
+ 12653-12680. 
+
+ 
+
+ who noted that it was spectrally pure. 
+
+ 
+
+ The spectrum from 2.5-25  umm was published in: 
+
+ Salisbury, J. W., Walter, L. W., and Vergo, N., 1987, Mid-Infrared 
+
+ (2.1-25  umm) Spectra of Minerals: First Edition, U.S. Geological 
+
+ Survey Open File Report 87-263. 
+
+ .nf 
+
+ 
+
+ END_SAMPLE_DESCRIPTION. 
+
+ 
+
+ 
+
+ XRD_ANALYSIS: 
+
+ 
+
+ .fi 
+
+ Analysis by Norma Vergo indicates the sample is smectite + trace 
+
+ amounts of quartz, the <2  umm cut is pure smectite. 
+
+ .nf 
+
+ 
+
+ END_XRD_ANALYSIS. 
+
+ 
+
+ COMPOSITIONAL_ANALYSIS_TYPE: XRF      # XRF, EM(WDS), ICP(Trace), WChem 
+
+ 
+
+ .KS 
+
+ .nf 
+
+ COMPOSITION:      SiO2:   52.4  wt%    NROFF: SiO\d2\u 
+
+ COMPOSITION:      TiO2:    0.32 wt%    NROFF: TiO\d2\u 
+
+ COMPOSITION:     Al2O3:   15.0  wt%    NROFF: Al\d2\uuO\d3\u 
+
+ COMPOSITION:     Fe2O3:    1.75 wt%    NROFF: Fe\d2\uO\d3\u 
+
+ COMPOSITION:       FeO:   <0.01 wt%    NROFF: FeO 
+
+ COMPOSITION:       MnO:    0.16 wt%    NROFF: MnO 
+
+ COMPOSITION:       MgO:    6.68 wt%    NROFF: MgO 
+
+ COMPOSITION:       CaO:    0.81 wt%    NROFF: CaO 
+
+ COMPOSITION:      Na2O:    1.21 wt%    NROFF: Na\d2\uO 
+
+ COMPOSITION:       K2O:    0.33 wt%    NROFF: K\d2\uO 
+
+ COMPOSITION:      P2O5:    0.05 wt%    NROFF: P\d2\uO\d5\u 
+
+ COMPOSITION:      H2O+:    6.78 wt%    NROFF:    H\d2\uO\u+\d 
+
+ COMPOSITION:      H2O-:   12.5  wt%    NROFF:    H\d2\uO\u-\d 
+
+ COMPOSITION:       H2O:   19.3  wt%    NROFF: H\d2\uO 
+
+ COMPOSITION:       LOI:   19.5  wt%    NROFF: LOI 
+
+ COMPOSITION: ---------------------- 
+
+ COMPOSITION:     Total:   98.21 wt% 
+
+ COMPOSITION:  O=Cl,F,S:         wt%  #correction for Cl, F, S 
+
+ COMPOSITION: New Total:         wt% 
+
+ .KE 
+
+ 
+
+ COMPOSITION_TRACE: 
+
+ 
+
+ COMPOSITION_DISCUSSION: 
+
+ 
+
+ .fi 
+
+ XRF Analysis by Branch of Analytical Chemistry, USGS, Denver. 
+
+ Total above includes LOI value rather than H\d2\uO values, and does not 
+
+ include value for FeO as it was determined at same time as H\d2\uO. 
+
+ Trace analysis was performed and will be added later. 
+
+ .nf 
+
+ 
+
+ END_COMPOSITION_DISCUSSION. 
+
+ 
+
+ MICROSCOPIC_EXAMINATION: 
+
+ 
+
+ ~1% opaques. 
+
+ 
+
+ END_MICROSCOPIC_EXAMINATION. 
+
+ 
+
+ DOCUMENTED_BY: wcalvin@speclab (Wendy M. Calvin) 
+
+ 
+
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+
+ 
+
+ LIB_SPECTRA:  splib04a r 3144   0.2-3.0  umm      200     g.s.= 
+
+ LIB_SPECTRA:  splib04a r 3155   0.2-3.0  umm      200     g.s.=<2  umm 
+
+ 
+

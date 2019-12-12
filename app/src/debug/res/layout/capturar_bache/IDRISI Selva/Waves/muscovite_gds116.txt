@@ -1,0 +1,92 @@
+ TITLE: Muscovite GDS116 DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: GDS116 
+ 
+ MINERAL_TYPE: Phyllosilicate 
+ 
+ MINERAL: Muscovite (Mica group) 
+ 
+ FORMULA: KAl2Si3O10(OH)2 
+ 
+ FORMULA_NROFF: KAl\d2\uSi\d3\uO\d10\u(OH)\d2\u 
+ 
+ COLLECTION_LOCALITY: Brazil 
+ 
+ ORIGINAL_DONOR: C.V. Clemency, SUNY 
+ 
+ CURRENT_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ ULTIMATE_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ 
+ XRD_ANALYSIS: 
+ 
+ .fi 
+ "40 kV - 30 mA, 7.2-9.5 keV 
+  References: Bailey (1984, p. 574), Huebner's reference patterns 
+  Found: dioctahedral mica, 2M1 polytype 
+  Sought but not found: quartz, (100) would be distinct if present 
+  Comments: Very similar patterns.  Only mica detected.  The mica (004) 
+            reflection is at 17.6-17.9\(de2  uh , indicating a large alkali 
+  	   such as potassium (the dioctahedral Na-mica, paragonite, 
+            has the (004) reflection at 18.4\(de). The small sample size 
+            required smear mounts, which are responsible for a strong 
+            preferred basal orientation in each of the patterns.  I'd be 
+            surprised if you found any differences in the optical spectra 
+            of these eight micas." 
+ 
+ J.S. Huebner, J. Pickrell, and J. Randow, 1993,  written communication. 
+ .nf 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE: XRF           # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ .KS 
+ .nf 
+ COMPOSITION:      SiO2:   45.90 wt%    NROFF: SiO\d2\uu 
+ COMPOSITION:      TiO2:    0.46 wt%    NROFF: TiO\d2\u 
+ COMPOSITION:     Al2O3:   31.06 wt%    NROFF: Al\d2\uO\d3\u 
+ COMPOSITION:     Fe2O3:    4.35 wt%    NROFF: Fe\d2\uO\d3\u 
+ COMPOSITION:       FeO:    1.42 wt%    NROFF: FeO 
+ COMPOSITION:       MnO:    0.05 wt%    NROFF: MnO 
+ COMPOSITION:       MgO:    1.38 wt%    NROFF: MgO 
+ COMPOSITION:       CaO:    0.07 wt%    NROFF: CaO 
+ COMPOSITION:      Na2O:    0.43 wt%    NROFF: Na\d2\uO 
+ COMPOSITION:       K2O:   10.21 wt%    NROFF: K\d2\uO 
+ COMPOSITION:         F:    0.11 wt%    NROFF: F 
+ COMPOSITION:      H2O+:    4.82 wt%    NROFF:    H\d2\uO\u+\d 
+ COMPOSITION: ---------------------- 
+ COMPOSITION:     Total:  100.26 wt% 
+ COMPOSITION:  O=Cl,F,S:    0.05 wt%  #correction for Cl, F, S 
+ COMPOSITION: New Total:  100.21 wt% 
+ .KE 
+ 
+ .fi 
+ Lin, F.C. and C.V. Clemency, 1981, Geochimica and Cosmochimica Acta, 
+ v.45, no.4. 
+ .nf 
+ 
+ COMPOSITION_TRACE: 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: agall@speclab (Andrea J. Gallagher) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r 3309   0.2-3.0  umm      200     g.s.= 
+ 

@@ -1,0 +1,74 @@
+ TITLE: Calcite CO2004 DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: CO2004 
+ 
+ MINERAL_TYPE: Carbonate 
+ 
+ MINERAL: Calcite (Calcite group) 
+ 
+ FORMULA: CaCO3 
+ 
+ FORMULA_NROFF: CaCO\d3\u 
+ 
+ COLLECTION_LOCALITY: Alligator Ridge Mine, Nevada 
+ 
+ ORIGINAL_DONOR: Phoebe Hauff 
+ 
+ CURRENT_SAMPLE_LOCATION: CSES/CIRES, Univ. of CO, Boulder 
+ 
+ ULTIMATE_SAMPLE_LOCATION: CSES/CIRES, Univ. of CO, Boulder 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ .fi 
+ Forms series with Rhodochrosite.  Trimorphous with Aragonite and 
+ Vaterite. 
+ .nf 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ 
+ XRD_ANALYSIS: 
+ 
+ .fi 
+ Calcite + minor quartz 
+ 
+ Kruse, F.A., and P.L. Hauff, eds., 1992, The IGCP-264 Spectral 
+ Properties Database. IUGS/UNESCO, Special Publication, 211 p., 
+ (in press). 
+ .nf 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE: None          # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ COMPOSITION_TRACE: None 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+        Bimodal Grain size distribution: 
+              mode 1: 575   umm @ 70 vol% 
+              mode 2:  25   umm @ 30 vol% 
+ 
+         avg gr sz = 480   umm 
+ 
+ .fi 
+ Uniaxial (-), high birefringence, rhombic cleavage, clear color, vigorous fizz 
+ with HCl, 
+ all consistent with calcite.  G. Swayze. 
+ .nf 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: agall@speclab (Andrea J. Gallagher) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r  809   0.2-3.0  umm      200     g.s.= 480   umm 
+ 

@@ -1,0 +1,95 @@
+ TITLE: Montmorillonite+Illite CM37 DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: CM37 
+ 
+ MINERAL_TYPE: Phyllosilicate 
+ 
+ MINERAL: Montmorillonite + Illite (Metabentonite) (Montmorillonite group) 
+ 
+ .fi 
+ .ad l 
+ FORMULA: (Na,Ca)0.33(Al,Mg)2Si4O10(OH)2*nH20 + (K,H3O)(Al,Mg,Fe)2(Si,Al)4O10[(O
+ H)2,H2O] 
+ 
+ FORMULA_NROFF: (Na,Ca)\d0.33\u(Al,Mg)\d2\uSi\d4\uO\d10\u(OH)\d2\u\(bunH\d2\uO +
+  (K,H\d3\uO)(Al,Mg,Fe)\d2\u(Si,Al)\d4\uO\d10\u[(OH)\d2\u,H\d2\uO] 
+ .na 
+ .nf 
+ 
+ COLLECTION_LOCALITY: Strasburg, Virginia 
+ 
+ ORIGINAL_DONOR: Clay Mineral Standard, Wards Natural Science Inc 
+ 
+ CURRENT_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ ULTIMATE_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ Sample is tan in color. 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ 
+ XRD_ANALYSIS: 
+ 
+ .fi 
+ Analysis by Norma Vergo indicates the sample is clay + quartz + 
+ calcite + trace feldspar?  The <2  umm cut  has illite/smectite 96%, 
+ illite + trace amounts of quartz. 
+ .nf 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE: XRF           # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ .KS 
+ .nf 
+ COMPOSITION:      SiO2:   46.5  wt%    NROFF: SiO\d2\u 
+ COMPOSITION:      TiO2:    1.05 wt%    NROFF: TiO\d2\u 
+ COMPOSITION:     Al2O3:   22.7  wt%    NROFF: Al\d2\uO\d3\u 
+ COMPOSITION:     Fe2O3:    3.19 wt%    NROFF: Fe\d2\uO\d3\u 
+ COMPOSITION:       FeO:    0.29 wt%    NROFF: FeO 
+ COMPOSITION:       MnO:   <0.02 wt%    NROFF: MnO 
+ COMPOSITION:       MgO:    2.74 wt%    NROFF: MgO 
+ COMPOSITIION:       CaO:    5.86 wt%    NROFF: CaO 
+ COMPOSITION:      Na2O:    0.31 wt%    NROFF: Na\d2\uO 
+ COMPOSITION:       K2O:    5.92 wt%    NROFF: K\d2\uO 
+ COMPOSITION:      P2O5:    0.12 wt%    NROFF: P\d2\uO\d5\u 
+ COMPOSITION:      H2O+:    6.18 wt%    NROFF:    H\d2\uO\u+\d 
+ COMPOSITION:      H2O-:    1.52 wt%    NROFF:    H\d2\uO\u-\d 
+ COMPOSITION:       H2O:    7.70 wt%    NROFF: H\d2\uO 
+ COMPOSITION:       LOI:   11.2  wt%    NROFF: LOI 
+ COMPOSITION: ---------------------- 
+ COMPOSITION:     Total:   99.61 wt% 
+ COMPOSITION:  O=Cl,F,S:         wt%  #correction for Cl, F, S 
+ COMPOSITION: New Total:         wt% 
+ .KE 
+ 
+ COMPOSITION_TRACE: 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ .fi 
+ XRF Analysis by Branch of Analytical Chemistry, USGS, Denver. 
+ Total above includes LOI value rather than H\d2\uO values, and does not 
+ include value for FeO as it was determined at same time as H\d2\uO. 
+ Trace analysis was performed and will be added later. 
+ .nf 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+ 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: wcalvin@speclab (Wendy M. Calvin) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r 3213   0.2-3.0  umm      200     g.s.= 
+ 

@@ -1,0 +1,97 @@
+
+
+ TITLE: Maple_Leaves DW92-1 DESCRIPT 
+
+ 
+
+ DOCUMENTATION_FORMAT: PLANT 
+
+ 
+
+ SAMPLE_ID: DW92-1 
+
+ 
+
+ PLANT_TYPE: Tree 
+
+ 
+
+ PLANT: Maple 
+
+ 
+
+ LATIN_NAME: Acer (unknown species) 
+
+ 
+
+ COLLECTION_LOCALITY: Denver West Office Complex, Golden, CO 
+
+ 
+
+ ORIGINAL_DONOR: 
+
+ 
+
+ SAMPLE_DESCRIPTION: 
+
+ 
+
+ Fresh leaves from tree, three thick over a deep black sample 
+
+ holder. 
+
+ 
+
+ END_SAMPLE_DESCRIPTION. 
+
+ 
+
+ COMPOSITIONAL_ANALYSIS_TYPE: 
+
+ 
+
+ COMPOSITION:      Cellulose:              wt% 
+
+ COMPOSITION:         Lignin:              wt% 
+
+ COMPOSITION:  Chlorophyll_A:              wt% 
+
+ COMPOSITION:  Chlorophyll_B:              wt% 
+
+ COMPOSITION:       Nitrogen:              wt% 
+
+ 
+
+ COMPOSITION_DISCUSSION: 
+
+ 
+
+ END_COMPOSITION_DISCUSSION. 
+
+ 
+
+ TRACE_ELEMENT_ANALYSIS: 
+
+ 
+
+ TRACE_ELEMENT_DISCUSSION: 
+
+ 
+
+ END_TRACE_ELEMENT_DISCUSSION. 
+
+ 
+
+ DOCUMENTED_BY: agall@speclab (Andrea J. Gallagher) 
+
+ 
+
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+
+ 
+
+ LIB_SPECTRA:  splib04a r 5284    0.2-3.0  umm      200     g.s.= 
+
+ 
+
+

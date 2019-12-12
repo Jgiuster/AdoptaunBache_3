@@ -1,0 +1,87 @@
+ TITLE: Calcite WS272 DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: WS272 
+ 
+ MINERAL_TYPE: Carbonate 
+ 
+ MINERAL: Calcite (Calcite group) 
+ 
+ FORMULA: CaCO3 
+ 
+ FORMULA_NROFF: CaCO\d3\u 
+ 
+ COLLECTION_LOCALITY: Tunguska, Siberia, USSR 
+ 
+ ORIGINAL_DONOR: Wards Scientific 
+ 
+ CURRENT_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ ULTIMATE_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ .fi 
+ Forms series with Rhodochrosite.  Trimorphous with Aragonite and 
+ Vaterite. 
+ 
+ This sample was ground from a beautiful single crystal of type 
+ Iceland Spar.  The single crystal appeared pure, and the visible-NIR 
+ spectrum appears pure. 
+ 
+ See 
+ Clark, R.N., T.V.V. King, M. Klejwa, G. Swayze, and N. Vergo, 1990, 
+ High spectral resolution reflectance spectroscopy of minerals: 
+ .I 
+ J. Geophys Res. 
+ .R 
+ .B 95, 
+ .R 
+ 12653-12680. 
+ .nf 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ 
+ XRD_ANALYSIS: 
+ 
+ .fi 
+ Calcite + small amount of "other" -- by Norma Vergo 
+ However, there is no "other" apparent in the single crystals or the 
+ ground sample. -- Roger N. Clark 
+ .nf 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE: None          # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ COMPOSITION_TRACE: None 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+ Bimodal grain size distribution: 
+ 
+ population 1          450  umm    85 vol% 
+ population 2           15  umm    15 vol% 
+ 
+ av gr sz of populations = 410  umm 
+ 
+ .fi 
+ Pure sample from single crystal.  Rhommbic cleavage, twins, uniaxial, 
+ very high birefringence, fizzes readily in dilute HCl.  Smaller grains 
+ adhere to larger grains covering 40-80% of larger grains cleavage surfaces. 
+ .nf 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: rclark@speclab (Roger N. Clark) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r  787   0.2-3.0  umm      200     g.s.= 410   umm 
+ 

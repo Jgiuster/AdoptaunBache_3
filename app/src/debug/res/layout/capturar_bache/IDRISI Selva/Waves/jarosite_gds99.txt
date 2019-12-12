@@ -1,0 +1,67 @@
+ TITLE: Jarosite GDS99 (K, Sy) DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: GDS99 
+ 
+ MINERAL_TYPE: Sulfate 
+ 
+ MINERAL: Jarosite (K-jarosite) (Synthetic) (Alunite group) 
+ 
+ FORMULA: K(Fe+3)3(SO4)2(OH)6 
+ 
+ FORMULA_NROFF: KFe\u+3\d\d3\u(SO\d4\u)\d2\u(OH)\d6\u 
+ 
+ COLLECTION_LOCALITY: Synthetic 
+ 
+ ORIGINAL_DONOR: Roger Stroffregen, SMU 
+ 
+ CURRENT_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ ULTIMATE_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ Sample synthesized at 200C 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ XRD_ANALYSIS: 
+ 
+ .fi 
+ "40 kV - 30 mA, 7.3-6.5 keV 
+  Reference: JCPDS #22-827 (jarosite) 
+  Found: Jarosite 
+  Comment: Sharp patterns (GDS99 is exceptional) indicate good 
+           crystallinity and compositional homogeneity.  All 
+           reflections are accounted for by the JCPDS card. 
+           However, the samples are not identical.  GDS98 has 
+           cell hexagonal dimensions a = 7.313(1) and c = 17.060(4) 
+           angstroms whereas GDS99 has a = 7.302(1) and c = 17.214(2) 
+           angstroms.  The difference in c is significant and suggests 
+           a composition difference between the two samples.  Are 
+           there differences in the optical spectra?" 
+ 
+ J.S. Huebner, J. Pickrell, and J. Randow, 1993,  written communication. 
+ .nf 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE:  None      # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ COMPOSITION_TRACE: 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MMICROSCOPIC_EXAMINATION: 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: agall@speclab (Andrea J. Gallagher) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r 2425   0.2-3.0  umm      200     g.s.= 
+ 

@@ -1,0 +1,90 @@
+ TITLE: Muscovite GDS114 DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: GDS114 
+ 
+ MINERAL_TYPE: Phyllosilicate 
+ 
+ MINERAL: Muscovite 
+ 
+ FORMULA: KAl2Si3O10(OH)2 
+ 
+ FORMULA_NROFF: KAl\d2\uSi\d3\uO\d10\u(OH)\d2\u 
+ 
+ COLLECTION_LOCALITY: Marshall Gulch, Santa Catalina Mtns, AZ 
+ 
+ ORIGINAL_DONOR: Jim Post 
+ 
+ CURRENT_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ ULTIMATE_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ 
+ XRD_ANALYSIS: 
+ 
+ .fi 
+ "40 kV - 30 mA, 7.2-9.5 keV 
+  References: Bailey (1984, p. 574), Huebner's reference patterns 
+  Found: dioctahedral mica, 2M1 polytype 
+  Sought but not found: quartz, (100) would be distinct if present 
+  Comments: Very similar patterns.  Only mica detected.  The mica (004) 
+            reflection is at 17.6-17.9\(de2  uh , indicating a large alkali 
+            such as potassium (the dioctahedral Na-mica, paragonite, 
+            has the (004) reflection at 18.4\(de). The small sample size 
+            required smear mounts, which are responsible for a strong 
+            preferred basal orientation in each of the patterns.  I'd be 
+            surprised if you found any differences in the optical spectra 
+            of these eight micas." 
+ 
+ J.S. Huebner, J. Pickrell, and J. Randow, 1993,  written communication. 
+ .nf 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE: XRF           # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ .KS 
+ .nf 
+ COMPOSITION:      SiO2:  44.93  wt%     NROFF: SiO\d2\u 
+ COMPOSITION:      TiO2:   0.13  wt%    NROFF: TiO\d2\u 
+ COMPOSITION:     Al2O3:  33.09  wt%    NROFF: Al\d2\uO\d3\u 
+ COMPOSITION:     Fe2O3:   5.62  wt%    NROFF: Fe\d2\uO\d3\u 
+ COMPOSITION:       NiO:   0.007 wt%    NROFF: NiO 
+ COMPOSITION:       MnO:   0.03  wt%    NROFF: MnO 
+ COMPOSITION:       MgO:   0.71  wt%    NROFF: MgO 
+ COMPOSITION:       ZnO:   0.02  wt%    NROFF: ZnO 
+ COMPOSITION:       BaO:   0.04  wt%    NROFF: BaO 
+ COMPOSITION:       CaO:   0.07  wt%    NROFF: CaO 
+ COMPOSITION:      Na2O:   0.70  wt%    NROFF: Na\d2\uO 
+ COMPOSITION:       K2O:  10.09  wt%    NROFF: K\d2\uO 
+ COMPOSITION:      H2O+:   4.47  wt%    NROFF:    H\d2\uO\u+\d 
+ COMPOSITION: ---------------------- 
+ COMPOSITION:     Total:  99.91  wt% 
+ COMPOSITION:  O=Cl,F,S:         wt%  #correction for Cl, F, S 
+ COMPOSITION: New Total:         wt% 
+ .KE 
+ 
+ Jim Post, 1991, personal communication. 
+ 
+ COMPOSITION_TRACE: 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: agall@speclab (Andrea J. Gallagher) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r 3298   0.2-3.0  umm      200     g.s.= 
+ 

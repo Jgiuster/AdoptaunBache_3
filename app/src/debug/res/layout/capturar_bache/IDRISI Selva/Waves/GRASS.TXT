@@ -1,0 +1,101 @@
+
+
+ TITLE: Lawn_Grass GDS91 DESCRIPT 
+
+ 
+
+ DOCUMENTATION_FORMAT: PLANT 
+
+ 
+
+ SAMPLE_ID: GDS91 
+
+ 
+
+ PLANT_TYPE: Grass 
+
+ 
+
+ PLANT: Lawn Grass 
+
+ 
+
+ LATIN_NAME: 
+
+ 
+
+ COLLECTION_LOCALITY:  Denver West Building #2, Golden, CO 
+
+ 
+
+ ORIGINAL_DONOR: 
+
+ 
+
+ SAMPLE_DESCRIPTION: 
+
+ 
+
+ Generic lawn grass.  Run immediately after picking. 
+
+ 
+
+ END_SAMPLE_DESCRIPTION. 
+
+ 
+
+ COMPOSITIONAL_ANALYSIS_TYPE: 
+
+ 
+
+ .KS 
+
+ .nf 
+
+ COMPOSITION:      Cellulose:              wt% 
+
+ COMPOSITION:         Lignin:              wt% 
+
+ COMPOSITION:  Chlorophyll_A:              wt% 
+
+ COMPOSITION:  Chlorophyll_B:              wt% 
+
+ COMPOSITION:       Nitrogen:              wt% 
+
+ .KE 
+
+ 
+
+ COMPOSITION_DISCUSSION: 
+
+ 
+
+ END_COMPOSITION_DISCUSSION. 
+
+ 
+
+ TRACE_ELEMENT_ANALYSIS: 
+
+ 
+
+ TRACE_ELEMENT_DISCUSSION: 
+
+ 
+
+ END_TRACE_ELEMENT_DISCUSSION. 
+
+ 
+
+ DOCUMENTED_BY: agall@speclab (Andrea J. Gallagher) 
+
+ 
+
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+
+ 
+
+ LIB_SPECTRA:  splib04a r 5275    0.2-3.0  umm      200 
+
+ 
+
+

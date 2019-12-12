@@ -1,0 +1,121 @@
+ TITLE: Alunite HS295 DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: HS295 
+ 
+ MINERAL_TYPE: Sulfate 
+ 
+ MINERAL: Alunite (Alunite group) 
+ 
+ FORMULA: KAl3(SO4)2(OH)6 
+ 
+ FORMULA_NROFF: KAl\d3\u(SO\d4\u)\d2\u(OH)\d6\u 
+ 
+ COLLECTION_LOCALITY: Utah 
+ 
+ ORIGINAL_DONOR: Hunt and Salisbury Collection 
+ 
+ CURRENT_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ ULTIMATE_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ .fi 
+ Original spectrum published in: 
+ 
+ Hunt, G.R., J.W. Salisbury, and C.J. Lenhoff, 1971, Visible 
+ and near-infrared spectra of minerals and rocks:  IV. 
+ Sulphides and sulphates.  Modern Geology, vol. 3, pp 1-14. 
+ 
+ With the following comment: "Alunite is white when pure ... This particular 
+ sample is pink, presumably because of a small amount of iron which 
+ causes the fall-off in reflectivity toward the blue.  No iron bands 
+ are seen in the near-infrared ..." 
+ 
+ A spectrum for this sample is also published in: 
+ 
+ Clark, R.N., T.V.V. King, M. Klejwa, G. Swayze, and N. Vergo, 1990, 
+ High spectral resolution reflectance spectroscopy of minerals: 
+ .I 
+ J. Geophys Res. 
+ .R 
+ .B 95, 
+ .R 
+ 12653-12680. 
+ 
+ The only sample measured was HS295.3B which was dry sieved to the 
+ grain size interval 74-250   umm. 
+ .nf 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ 
+ XRD_ANALYSIS: 
+ 
+ Analysis by Norma Vergo indicates pure Alunite 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE: XRF      # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ .KS 
+ .nf 
+ COMPOSITION:      SiO2:     0.17 wt%    NROFF: SiO\d2\u 
+ COMPOSITION:      TiO2:   <0.02 wt%    NROFF: TiO\d2\u 
+ COMPOSITION:     Al2O3:    35.6 wt%    NROFF: Al\d2\uO\d3\u 
+ COMPOSITION:     Fe2O3:    0.14 wt%    NROFF: Fe\d2\uO\d3\u 
+ COMPOSITION:       MnO:   <0.02 wt%    NROFF: MnO 
+ COMPOSITION:       MgO:   <0.1  wt%    NROFF: MgO 
+ COMPOSITION:       CaO:   <0.02 wt%    NROFF: CaO 
+ COMPOSITION:      Na2O:    0.34 wt%    NROFF: Na\d2\uO 
+ COMPOSITION:       K2O:   10.2  wt%    NROFF: K\d2\uO 
+ COMPOSITION:      P2O5:    0.75 wt%    NROFF: P\d2\uO\d5\u 
+ COMPOSITION:       LOI:   44.2  wt%    NROFF: LOI 
+ COMPOSITION: ---------------------- 
+ COMPOSITION:     Total:   91.56 wt% 
+ COMPOSITION:  O=Cl,F,S:         wt% 
+ COMPOSITION: New Total:         wt% 
+ .KE 
+ 
+ COMPOSITION_TRACE: None 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ .fi 
+ XRF analysis by Foggert, Bartel, and Stewart USGS Branch of 
+ Analytic Chemistry, Denver from: 
+ 
+ Salisbury, J. W., Walter, L. W., and Vergo, N., 1987, Mid-Infrared 
+ (2.1-25  umm) Spectra of Minerals: First Edition, U.S. Geological 
+ Survey Open File Report 87-263. 
+ 
+ Sulfur was not included in analysis and probably accounts for the 
+ missing 8%. 
+ .nf 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+ .fi 
+ Salisbury, J. W., Walter, L. W., and Vergo, N., 1987, Mid-Infrared 
+ (2.1-25  umm) Spectra of Minerals: First Edition, U.S. Geological 
+ Survey Open File Report 87-263. 
+ 
+ This reference notes that the sample is slightly pink in color, appears pure. 
+ 
+ av gr sz = 300  umm 
+ 
+ Grains have straight extinction, length fast, uniaxial (+).  G. Swayze 
+ .nf 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: wcalvin@speclab  (Wendy M. Calvin) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r  251   0.2-3.0  umm      200     g.s.= 300   umm 
+ 

@@ -1,0 +1,15 @@
+ref. system : USGS Lambert Azimuthal Equal Area
+projection  : Lambert Oblique Azimuthal Equal Area
+datum       : NAD27
+delta WGS84 : -8 160 176
+ellipsoid   : Clarke 1866
+major s-ax  : 6378206.40
+minor s-ax  : 6356583.80
+origin long : -100
+origin lat  : 45
+origin X    : 0
+origin Y    : 0
+scale fac   : na
+units       : m
+parameters  : 0
+

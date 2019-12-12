@@ -1,0 +1,50 @@
+ TITLE: Muscovite GDS107 DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: GDS107 
+ 
+ MINERAL_TYPE: Phyllosilicate 
+ 
+ MINERAL: Muscovite (Mica group) 
+ 
+ FORMULA: KAl2Si3O10(OH)2 
+ 
+ FORMULA_NROFF: KAl\d2\uSi\d3\uO\d10\u(OH)\d2\u 
+ 
+ COLLECTION_LOCALITY: Mt. Turner, Australia 
+ 
+ ORIGINAL_DONOR: Jim Crowley, USGS Reston 
+ 
+ CURRENT_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ ULTIMATE_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ 
+ XRD_ANALYSIS: 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE: None          # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ COMPOSITION_TRACE: 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: agall@speclab (Andrea J. Gallagher) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r 3254   0.2-3.0  umm      200     g.s.= 
+ 

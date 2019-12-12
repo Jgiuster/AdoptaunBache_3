@@ -1,0 +1,120 @@
+ TITLE: Actinolite HS22 DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: HS22 
+ 
+ MINERAL_TYPE: Inosilicate 
+ 
+ MINERAL: Actinolite (Amphibole group) 
+ 
+ FORMULA: Ca2(Mg,Fe+2)5Si8O22(OH)2 
+ 
+ FORMULA_NROFF: Ca\d2\u(Mg,Fe\u+2\d)\d5\uSi\d8\uO\d22\u(OH)\d2\u 
+ 
+ COLLECTION_LOCALITY: Chester, VT 
+ 
+ ORIGINAL_DONOR: Hunt and Salibury Collection 
+ 
+ CURRENT_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ ULTIMATE_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ .fi 
+ Forms a series with Tremolite and Ferro-actinolite. 
+ 
+ Original spectrum published in: 
+ 
+ Hunt, G.R., J.W. Salisbury, 1970, Visible and near-infrared 
+ spectra of minerals and rocks: I. Silicate minerals.  Modern 
+ Geology, vol. 1, pp283-300. 
+ 
+ With the note: "The flattening of the spectral curve of the finest 
+ size range near 2   umm, which produces a cross-over of the spectra, 
+ is apparently due to a very slight contamination of the sample by 
+ opaque inclusions of pyrite (?)." 
+ 
+ A spectrum of this sample is also published in: 
+ 
+ Clark, R.N., T.V.V. King, M. Klejwa, G. Swayze, and N. Vergo, 1990, 
+ High spectral resolution reflectance spectroscopy of minerals: 
+ .I 
+ J. Geophys Res. 
+ .R 
+ .B 95, 
+ .R 
+ 12653-12680. 
+ 
+ Who note that the sample is spectrally pure. 
+ The sample measured was HS22.3B which was dry sieved to the grain 
+ size interval 74-250   umm. 
+ .nf 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ 
+ XRD_ANALYSIS: 
+ 
+ None. 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE:    EM(WDS)     # XRF,, EM(WDS), ICP(Trace), WChem 
+ 
+ 
+ .KS 
+ .nf 
+ COMPOSITION:      SiO2:   54.53 wt%    NROFF: SiO\d2\u 
+ COMPOSITION:      TiO2:    0.04 wt%    NROFF: TiO\d2\u 
+ COMPOSITION:     Al2O3:    1.64 wt%    NROFF: Al\d2\uO\d3\u 
+ COMPOSITION:     Cr2O3:    0.27 wt%    NROFF: Cr\d2\uO\d3\u 
+ COMPOSITION:       FeO:    5.46 wt%    NROFF: FeO 
+ COMPOSITION:       MnO:    0.21 wt%    NROFF: MnO 
+ COMPOSITION:       MgO:   21.69 wt%    NROFF: MgO 
+ COMPOSITION:       CaO:   12.01 wt%    NROFF: CaO 
+ COMPOSITION:      Na2O:    0.41 wt%    NROFF: Na\d2\uO 
+ COMPOSITION:       K2O:    0.03 wt%    NROFF: K\d2\uO 
+ COMPOSITION: ---------------------- 
+ COMPOSITION:     Total:   96.28 wt% 
+ COMPOSITION:  O=Cl,F,S:         wt%  #correction for Cl, F, S 
+ COMPOSITION: New Total:         wt% 
+ .KE 
+ 
+ COMPOSITION_TRACE: None 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ .fi 
+ EM analysis by Gregg A. Swayze at USGS Branch of Geophysics, Denver, 
+ indicates stoichiometric actinolite. 
+ .nf 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+ Optical examination give the following mineral mode: 
+ 
+ 91.5 vol% actinolite 
+  8.0 vol% wh. mica or calcite 
+  0.5 vol% opaque inclusions 
+ 
+ av gr sz = 290  umm 
+ 
+ Mostly pure, highly fractured green actinolite grains (occasionally 
+ .fi 
+ some with opaque inclusions).  Platey translucent mica? grains 
+ intermixed with actinolite. Continuous grain size distribution 
+ with little coating of larger grains by smaller grains.  G. Swayze 
+ .nf 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: wcalvin@speclab (Wendy M. Calvin) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r   40   0.2-3.0  umm      200     g.s.= 290  umm 
+ 

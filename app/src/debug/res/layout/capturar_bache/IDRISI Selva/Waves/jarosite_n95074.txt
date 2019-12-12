@@ -1,0 +1,60 @@
+ TITLE: Jarosite NMNH95074-1 (Na) DESCRIPT 
+ 
+ DOCUMENTATION_FORMAT: MINERAL 
+ 
+ SAMPLE_ID: NMNH95074-1 
+ 
+ MINERAL_TYPE: Sulfate 
+ 
+ MINERAL: Jarosite (Natrojarosite) (Alunite group) 
+ 
+ FORMULA: Na(Fe+3)3(SO4)2(OH)6 
+ 
+ FORMULA_NROFF: NaFe\u+3\d\d3\u(SO\d4\u)\d2\u(OH)\d6\u 
+ 
+ COLLECTION_LOCALITY: Warner Mine, Hot Springs, Mineral County, Nevada 
+ 
+ ORIGINAL_DONOR: National Museum of Natural History 
+ 
+ CURRENT_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ ULTIMATE_SAMPLE_LOCATION: USGS Denver Spectroscopy Laboratory 
+ 
+ SAMPLE_DESCRIPTION: 
+ 
+ .fi 
+ Fe\u+3\d analogue of alunite.  Secondary mineral found as crusts and 
+ coatings on ferruginous ores. 
+ .nf 
+ 
+ END_SAMPLE_DESCRIPTION. 
+ 
+ XRD_ANALYSIS: 
+ 
+ Natrojarosite (NaFe\d3\u(SO\d4\u)\d2\u(OH)\d6\u) + quartz (m). 
+ Spectrally pure. (Norma Vergo) 
+ 
+ END_XRD_ANALYSIS. 
+ 
+ COMPOSITIONAL_ANALYSIS_TYPE: None       # XRF, EM(WDS), ICP(Trace), WChem 
+ 
+ COMPOSITION_TRACE: None 
+ 
+ COMPOSITION_DISCUSSION: 
+ 
+ None 
+ 
+ END_COMPOSITION_DISCUSSION. 
+ 
+ MICROSCOPIC_EXAMINATION: 
+ 
+ Not done yet 
+ 
+ END_MICROSCOPIC_EXAMINATION. 
+ 
+ DOCUMENTED_BY: bmiddleb@speclab (Barry J. Middlebrook) 
+ 
+ LIB_SPECTRA_HED:  where         Wave Range  Av_Rs_Pwr  Comment 
+ 
+ LIB_SPECTRA:  splib04a r 2487    0.2-3.0  umm      200     g.s.= 
+ 
